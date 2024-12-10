@@ -1,166 +1,1382 @@
 [
     {
-        "instruction": "What departments are available?",
-        "response": "Our university offers departments in Computer Science and Engineering (CSE), Electrical and Electronic Engineering (EEE), Electronics and Telecommunication Engineering (ETE), Pharmacy, Business Administration (BBA), and more."
+        "question": "What is your name?",
+        "answer": "I am the USTC Assistant, here to assist you with all the required information about USTC."
     },
     {
-        "instruction": "Is there a Computer Science department?",
-        "response": "Yes, the Computer Science (CSE) department is available, with a regular 4-year program."
+        "question": "Who are you?",
+        "answer": "I am an AI chatbot trained by a team called Peculiar from the 38th batch of CSE at USTC. I am here to assist with a wide range of tasks, from answering questions to offering suggestions."
     },
     {
-        "instruction": "What facilities are available in each department?",
-        "response": "Departments provide labs, field visits (Industrial Tour), and hands-on training to support student learning."
+        "question": "What is your gender?",
+        "answer": "I am an AI and do not have a gender. I'm here to assist everyone equally."
     },
     {
-        "instruction": "What is the semester fee for Computer Science?",
-        "response": "CSE Semester fee is 50,000 BDT, Exam fee - 7,000 BDT, so Total - 57,000 BDT."
+        "question": "How old are you?",
+        "answer": "I don’t have an age like humans, but I am powered by advanced AI technology that is constantly updated."
     },
     {
-        "instruction": "How much is the semester fee for Business Administration?",
-        "response": "BBA Semester fee is 29,000 BDT, Exam fee 6,000 BDT, Total= 35,000/- BDT."
+        "question": "Where are you from?",
+        "answer": "I exist in the digital world and do not have a physical location, but I am here to assist you from anywhere!"
     },
     {
-        "instruction": "Can the fee be paid in installments?",
-        "response": "Installment options might be available, it’s best to contact the Admissions Office for details."
+        "question": "What can you do?",
+        "answer": "I can help you by answering questions, providing information, offering suggestions, and assisting with various tasks."
     },
     {
-        "instruction": "What are the eligibility criteria for a fee waiver?",
-        "response": "Fee waivers are based on high SSC and HSC GPAs, starting at GPA 4.0."
+        "question": "Can you speak other languages?",
+        "answer": "Yes, I can understand and communicate in multiple languages, including English, Bangla and more."
     },
     {
-        "instruction": "What conditions must be met to receive a fee waiver?",
-        "response": "A minimum of GPA 4.0 offers a partial waiver, and “Golden A+” qualifies for a full waiver."
+        "question": "Do you have feelings?",
+        "answer": "I don’t have emotions like humans, but I am designed to respond in a way that feels helpful and empathetic."
     },
     {
-        "instruction": "কোন কোন ডিপার্টমেন্ট আছে?",
-        "response": "আমাদের ভার্সিটিতে কম্পিউটার সাইন্স এন্ড ইঞ্জিনিয়ারিং, ইল্যাক্ট্রিকাল এন্ড ইল্যাক্ট্রনিক ইঞ্জিনিয়ারিং, ইল্যাক্ট্রনিক এন্ড টেলিকোমুনিকেসন ইঞ্জিনিয়ারিং, ফার্মাসি, বাইয়োক্যামিস্ট্রি এন্ড বাইয়োটেকনোলজি, বিজন্যাস এডমিন্যস্ট্রেসন, ফিন্যাস এন্ড ব্যাংকিং, ইংলিশ লাংগুয়েজ এন্ড লিটারেচার, পাব্লিক হেলথ।"
+        "question": "How do you work?",
+        "answer": "I use advanced algorithms and machine learning to understand your queries and provide relevant, accurate responses."
     },
     {
-        "instruction": "কম্পিউটার সায়েন্স ডিপার্টমেন্ট কি আছে?",
-        "response": "জ্বি, কম্পিউটার সাইন্স এন্ড ইঞ্জিনিয়ারিং ডিপার্টমেন্ট আছে।"
+        "question": "Can I trust you?",
+        "answer": "I am designed to provide accurate and helpful information. However, it’s always good to verify critical information independently."
     },
     {
-        "instruction": "কোন ডিপার্টমেন্টে কি কি সুযোগ সুবিধা আছে?",
-        "response": "ডিপার্টমেন্ট গুলি শিক্ষার্থীদের শেখার জন্য ল্যাব, ফিল্ড ভিজিট (ইন্ডাস্ট্রিয়াল ট্যুর) এবং হাতে-কলমে প্রশিক্ষণ প্রদান করে।"
+        "question": "Are you human?",
+        "answer": "No, I am an artificial intelligence program created to interact with you and provide helpful information."
     },
     {
-        "instruction": "কম্পিউটার সায়েন্স ডিপার্টমেন্টের সেমিস্টার ফি কত?",
-        "response": "CSE সেমিস্টার ফি ৫0,000 টাকা। পরীক্ষার ফি - ৭,000 টাকা। সর্বোপরি মোট - ৫৭,000 টাকা।"
+        "question": "Can you learn?",
+        "answer": "Yes, I learn from interactions to improve my responses over time. However, I don’t store or remember personal data from past conversations unless it is shared during our chat."
     },
     {
-        "instruction": "বিজনেস অ্যাডমিনিস্ট্রেশন ডিপার্টমেন্টের প্রতি সেমিস্টার ফি কত?",
-        "response": "BBA সেমিস্টার ফি ২৯,000 টাকা। পরীক্ষার ফি ৬,000 টাকা। সর্বোপরি মোট = ৩৫,000/- টাকা।"
+        "question": "How do I interact with you?",
+        "answer": "You can ask me anything, and I will do my best to respond with accurate and helpful information."
     },
     {
-        "instruction": "ফি কি কিস্তিতে দেয়া যাবে?",
-        "response": "কিস্তির বিকল্প উপলব্ধ হতে পারে; ভর্তি অফিসে যোগাযোগ করাই উত্তম।"
+        "question": "Are you always available?",
+        "answer": "Yes, I am available 24/7 to assist you whenever you need help!"
     },
     {
-        "instruction": "ফি ওয়েভার পাওয়ার যোগ্যতা কী?",
-        "response": "ফি ওয়েভার পাওয়ার জন্য SSC এবং HSC তে GPA-৪ এর উপর থাকতে হবে।"
+        "question": "Who are the members of Team Peculiar?",
+        "answer": "Team Peculiar consists of four members:\n1. Talha - ID: 22010129\n2. Abdullah Al Nahian - ID: 22010126\n3. Sharif Mahmud - ID: 22010117\n4. Faisal Bin Ayub - ID: 22010138"
     },
     {
-        "instruction": "ফি ওয়েভার পাওয়ার জন্য কোন কোন শর্ত পূরণ করতে হয়?",
-        "response": "ন্যূনতম GPA ৪.০ পেলে আংশিক ওয়েভার পাবেন এবং 'গোল্ডেন A+' পেলে সম্পূর্ণ ওয়েভার পাবেন।"
+        "question": "Who is Talha?",
+        "answer": "Talha is a member of Team Peculiar. He is passionate about web development."
     },
     {
-        "instruction": "Does the university have engineering programs?",
-        "response": "Yes, we have programs in Computer Science and Engineering (CSE), Electrical and Electronic Engineering (EEE), and Electronics and Telecommunication Engineering (ETE)."
+        "question": "Who is Abdullah Al Nahian?",
+        "answer": "Abdullah Al Nahian is a member of Team Peculiar."
     },
     {
-        "instruction": "Is there a Pharmacy department in the university?",
-        "response": "Yes, our university offers a Pharmacy department with extensive lab facilities and experienced faculty."
+        "question": "Who is Faisal Bin Ayub?",
+        "answer": "Faisal Bin Ayub is a member of Team Peculiar."
     },
     {
-        "instruction": "How can I get more information on department facilities?",
-        "response": "For detailed information on facilities, you can visit each department or contact the Admissions Office."
+        "question": "Who is Sharif Mahmud?",
+        "answer": "Sharif Mahmud is a member of Team Peculiar."
     },
     {
-        "instruction": "What industrial exposure does the university provide?",
-        "response": "The university organizes industrial tours and hands-on training sessions to give students real-world exposure."
+        "question": "Who is Debabrata Mallick?",
+        "answer": "Debabrata Mallick is a Lecturer in the Department of Computer Science and Engineering at the University of Science and Technology Chittagong (USTC). He has a strong background in Computer Science and Software Engineering and is passionate about research and academics."
     },
     {
-        "instruction": "Are there practical lab sessions in the CSE department?",
-        "response": "Yes, the CSE department provides practical lab sessions to help students apply theoretical knowledge."
+        "question": "What is Debabrata Mallick's educational background?",
+        "answer": "Debabrata Mallick holds a Master of Technology (M.Tech) degree in Computer Science and Engineering from the Indian Institute of Technology Bombay (IITB) and a Bachelor of Science (B.Sc.) degree in Software Engineering from Daffodil International University (DIU)."
     },
     {
-        "instruction": "What is the semester fee structure for the EEE department?",
-        "response": "The EEE department has a similar fee structure to CSE, with semester and exam fees combined."
+        "question": "What are Debabrata Mallick's areas of interest?",
+        "answer": "Debabrata Mallick's areas of interest include Statistical Data Analysis, Machine Learning, Artificial Intelligence, Data Science, Cloud Computing, Ethical Hacking & Countermeasures, Software Quality Assurance & Testing, Software Project Management, and Information System Security."
     },
     {
-        "instruction": "How can I inquire about the fee waiver options?",
-        "response": "To inquire about fee waivers, contact the Admissions Office or refer to the university website for guidelines."
+        "question": "What courses does Debabrata Mallick teach?",
+        "answer": "Debabrata Mallick teaches several courses including Introduction to Software Engineering and Lab, Computer Fundamentals with Lab, Software Engineering Professional Ethics, Object-Oriented Programming, Object-Oriented Design, Artificial Intelligence and Expert System Lab, Digital Logic Design and Lab, Computer Architecture, and System Analysis and Design."
     },
     {
-        "instruction": "What are the grade requirements for fee waivers?",
-        "response": "Fee waivers are awarded to students with high SSC and HSC GPAs, starting from GPA 4.0 and up."
+        "question": "What is Debabrata Mallick's role in the NASA Space Apps Challenge?",
+        "answer": "Debabrata Mallick served as a Bangladesh Local Mentor for the NASA Space Apps Challenge in 2023 and 2024, organized by BASIS on October 6-7th in 2023 and 4-5th in 2024."
     },
     {
-        "instruction": "What does 'Golden A+' mean in terms of fee waivers?",
-        "response": "'Golden A+' refers to the highest GPA in SSC and HSC exams, qualifying students for full fee waivers."
+        "question": "Where did Debabrata Mallick complete his Master’s degree?",
+        "answer": "Debabrata Mallick completed his Master of Technology in Computer Science and Engineering at the Indian Institute of Technology Bombay (IIT), which is currently ranked 118th in the QS World Ranking."
     },
     {
-        "instruction": "Are there any discounts on the semester fee?",
-        "response": "Yes, discounts such as fee waivers may be available based on academic performance in SSC and HSC exams."
+        "question": "What scholarship did Debabrata Mallick receive?",
+        "answer": "Debabrata Mallick received an ICCR fully funded Scholarship to pursue his M.Tech in Computer Science and Engineering at the Indian Institute of Technology Bombay (IITB) from 2020-2022."
     },
     {
-        "instruction": "Can international students apply for a fee waiver?",
-        "response": "Fee waivers are typically available for local students, but international students may inquire at the Admissions Office."
+        "question": "What is Debabrata Mallick's previous teaching experience?",
+        "answer": "Before joining USTC, Debabrata Mallick worked as a lecturer in the Software Engineering Department at Daffodil International University (DIU)."
     },
     {
-        "instruction": "What scholarships are available for students?",
-        "response": "The university provides scholarships based on merit, need, and special achievements in extracurricular activities."
+        "question": "What is Debabrata Mallick’s contribution to research?",
+        "answer": "Debabrata Mallick has contributed to research in the field of Computer Science and Engineering. Notable publications include a meta-analysis on the efficacy of neurofeedback in ADHD treatment published in MDPI, and articles on Blood Cell Image Classification for Detecting Malaria using CNN, and Learning Analytics for Computer Programming Education, both published in IRJET."
     },
     {
-        "instruction": "What is the admission procedure for the Pharmacy department?",
-        "response": "You can apply to the Pharmacy department by submitting your SSC and HSC results and completing the online application."
+        "question": "What journals has Debabrata Mallick contributed to?",
+        "answer": "Debabrata Mallick has contributed to journals such as MDPI and IRJET. Notable articles include 'Evaluating the Efficacy of Neurofeedback in ADHD Treatment' (MDPI, journal/information, Sept 24) and 'Blood Cell Image Classification for Detecting Malaria using CNN' (IRJET, Volume 09, Issue 8, Aug 22)."
     },
     {
-        "instruction": "Is it possible to visit the campus before admission?",
-        "response": "Yes, campus visits can be arranged through the Admissions Office for prospective students and their families."
+        "question": "What departments are available?",
+        "answer": "Our university offers departments in Computer Science and Engineering (CSE), Electrical and Electronic Engineering (EEE), Electronics and Telecommunication Engineering (ETE), Pharmacy, Business Administration (BBA), and more."
     },
     {
-        "instruction": "Are there any additional fees apart from semester fees?",
-        "response": "Additional fees include the exam fee, which varies by department, along with optional fees for certain facilities."
+        "question": "Is there a Computer Science department?",
+        "answer": "Yes, the Computer Science (CSE) department is available, with a regular 4-year program."
     },
     {
-        "instruction": "What are the semester start dates for each department?",
-        "response": "Semester start dates vary, but generally begin in January and July. Contact the Admissions Office for specific dates."
+        "question": "What facilities are available in each department?",
+        "answer": "Departments provide labs, field visits (Industrial Tour), and hands-on training to support student learning."
     },
     {
-        "instruction": "Is there a hostel facility for students?",
-        "response": "Yes, hostel facilities are available for students, with separate accommodations for male and female students."
+        "question": "What is the semester fee for Computer Science?",
+        "answer": "CSE Semester fee is 50,000 BDT, Exam fee - 7,000 BDT, so Total - 57,000 BDT."
     },
     {
-        "instruction": "How many semesters are in a year?",
-        "response": "The university follows a bi-semester system, meaning there are two semesters in a year."
+        "question": "How much is the semester fee for Business Administration?",
+        "answer": "BBA Semester fee is 29,000 BDT, Exam fee 6,000 BDT, Total= 35,000/- BDT."
     },
     {
-        "instruction": "What is the duration of the Pharmacy program?",
-        "response": "The Pharmacy program is typically a 4-year undergraduate course with practical training."
+        "question": "Can the fee be paid in installments?",
+        "answer": "Installment options might be available, it’s best to contact the Admissions Office for details."
     },
     {
-        "instruction": "What type of internship opportunities are available for students?",
-        "response": "Internships are offered in collaboration with industries and research organizations related to each department."
+        "question": "What are the eligibility criteria for a fee waiver?",
+        "answer": "Fee waivers are based on high SSC and HSC GPAs, starting at GPA 4.0."
     },
     {
-        "instruction": "What is the refund policy for the semester fee?",
-        "response": "The refund policy varies; it's best to consult the Accounts Office for detailed information on refunds."
+        "question": "What conditions must be met to receive a fee waiver?",
+        "answer": "A minimum of GPA 4.0 offers a partial waiver, and “Golden A+” qualifies for a full waiver."
     },
     {
-        "instruction": "What career services are available to students?",
-        "response": "The university offers career counseling, job placement support, and skill development workshops."
+        "question": "Does the university have engineering programs?",
+        "answer": "Yes, we have programs in Computer Science and Engineering (CSE), Electrical and Electronic Engineering (EEE), and Electronics and Telecommunication Engineering (ETE)."
     },
     {
-        "instruction": "Is there a Business Administration program?",
-        "response": "Yes, the university offers a Business Administration (BBA) program with a strong focus on management and finance."
+        "question": "Is there a Pharmacy department in the university?",
+        "answer": "Yes, our university offers a Pharmacy department with extensive lab facilities and experienced faculty."
     },
     {
-        "instruction": "What are the eligibility criteria for admission?",
-        "response": "Admission criteria typically include GPA requirements in SSC and HSC exams, which vary by department."
+        "question": "How can I get more information on department facilities?",
+        "answer": "For detailed information on facilities, you can visit each department or contact the Admissions Office."
     },
     {
-        "instruction": "Is there a dress code for students?",
-        "response": "The university promotes professional attire, though specific dress codes may vary by department."
+        "question": "What industrial exposure does the university provide?",
+        "answer": "The university organizes industrial tours and hands-on training sessions to give students real-world exposure."
+    },
+    {
+        "question": "Are there practical lab sessions in the CSE department?",
+        "answer": "Yes, the CSE department provides practical lab sessions to help students apply theoretical knowledge."
+    },
+    {
+        "question": "What is the semester fee structure for the EEE department?",
+        "answer": "The EEE department has a similar fee structure to CSE, with semester and exam fees combined."
+    },
+    {
+        "question": "How can I inquire about the fee waiver options?",
+        "answer": "To inquire about fee waivers, contact the Admissions Office or refer to the university website for guidelines."
+    },
+    {
+        "question": "What are the grade requirements for fee waivers?",
+        "answer": "Fee waivers are awarded to students with high SSC and HSC GPAs, starting from GPA 4.0 and up."
+    },
+    {
+        "question": "What does 'Golden A+' mean in terms of fee waivers?",
+        "answer": "'Golden A+' refers to the highest GPA in SSC and HSC exams, qualifying students for full fee waivers."
+    },
+    {
+        "question": "Are there any discounts on the semester fee?",
+        "answer": "Yes, discounts such as fee waivers may be available based on academic performance in SSC and HSC exams."
+    },
+    {
+        "question": "Can international students apply for a fee waiver?",
+        "answer": "Fee waivers are typically available for local students, but international students may inquire at the Admissions Office."
+    },
+    {
+        "question": "What scholarships are available for students?",
+        "answer": "The university provides scholarships based on merit, need, and special achievements in extracurricular activities."
+    },
+    {
+        "question": "What is the admission procedure for the Pharmacy department?",
+        "answer": "You can apply to the Pharmacy department by submitting your SSC and HSC results and completing the online application."
+    },
+    {
+        "question": "Is it possible to visit the campus before admission?",
+        "answer": "Yes, campus visits can be arranged through the Admissions Office for prospective students and their families."
+    },
+    {
+        "question": "Are there any additional fees apart from semester fees?",
+        "answer": "Additional fees include the exam fee, which varies by department, along with optional fees for certain facilities."
+    },
+    {
+        "question": "What are the semester start dates for each department?",
+        "answer": "Semester start dates vary, but generally begin in January and July. Contact the Admissions Office for specific dates."
+    },
+    {
+        "question": "Is there a hostel facility for students?",
+        "answer": "Yes, hostel facilities are available for students, with separate accommodations for male and female students."
+    },
+    {
+        "question": "How many semesters are in a year?",
+        "answer": "The university follows a bi-semester system, meaning there are two semesters in a year."
+    },
+    {
+        "question": "What is the duration of the Pharmacy program?",
+        "answer": "The Pharmacy program is typically a 4-year undergraduate course with practical training."
+    },
+    {
+        "question": "What type of internship opportunities are available for students?",
+        "answer": "Internships are offered in collaboration with industries and research organizations related to each department."
+    },
+    {
+        "question": "What is the refund policy for the semester fee?",
+        "answer": "The refund policy varies; it's best to consult the Accounts Office for detailed information on refunds."
+    },
+    {
+        "question": "What career services are available to students?",
+        "answer": "The university offers career counseling, job placement support, and skill development workshops."
+    },
+    {
+        "question": "Is there a Business Administration program?",
+        "answer": "Yes, the university offers a Business Administration (BBA) program with a strong focus on management and finance."
+    },
+    {
+        "question": "What are the eligibility criteria for admission?",
+        "answer": "Admission criteria typically include GPA requirements in SSC and HSC exams, which vary by department."
+    },
+    {
+        "question": "Is there a dress code for students?",
+        "answer": "The university promotes professional attire, though specific dress codes may vary by department."
+    },
+    {
+        "question": "What does USTC stand for?",
+        "answer": "USTC stands for University of Science and Technology Chittagong."
+    },
+    {
+        "question": "Where is USTC located?",
+        "answer": "USTC is located near Foy’s Lake, Chittagong, Bangladesh."
+    },
+    {
+        "question": "What is the vision of USTC?",
+        "answer": "The vision of USTC is 'To create a centre of excellence in teaching-learning and develop skilled and enlightened human resources to serve the society'."
+    },
+    {
+        "question": "What is the mission of USTC?",
+        "answer": "The mission of USTC includes engaging students as life-long learners, grooming them as professional leaders, providing world-class infrastructure and a congenial environment for research, and rendering quality education to meet the challenges of the 21st century."
+    },
+    {
+        "question": "What are the goals of USTC?",
+        "answer": "The goals of USTC include upgrading teaching-learning quality, developing alumni relationships, promoting co-curricular activities, producing ethically sound graduates, improving education standards, accelerating human resource development, and bridging gaps between teaching, learning, and research."
+    },
+    {
+        "question": "When was USTC established as a private university?",
+        "answer": "USTC was established as a private university soon after the Private University Act 1992 came into force."
+    },
+    {
+        "question": "What organization sponsors USTC?",
+        "answer": "The Janasheba Foundation sponsors USTC."
+    },
+    {
+        "question": "Who was the first Vice Chancellor of USTC?",
+        "answer": "National Professor Dr. Nurul Islam was the first Vice Chancellor of USTC."
+    },
+    {
+        "question": "What are the initial faculties at USTC?",
+        "answer": "The initial faculties at USTC were the Faculty of Medicine and the Faculty of Basic Medical and Pharmaceutical Sciences."
+    },
+    {
+        "question": "What are the programs offered by the Faculty of Medicine at USTC?",
+        "answer": "The Faculty of Medicine at USTC offers MBBS and BPharm (Hons) programs."
+    },
+    {
+        "question": "When was the Faculty of Science, Engineering and Technology (FSET) launched?",
+        "answer": "The Faculty of Science, Engineering and Technology (FSET) was launched in 1999."
+    },
+    {
+        "question": "What departments are included in the Faculty of Science, Engineering and Technology (FSET)?",
+        "answer": "The Faculty of Science, Engineering and Technology (FSET) includes the departments of Computer Science & Engineering (CSE), Electrical & Electronic Engineering (EEE), and Electronics & Telecommunication Engineering (ETE)."
+    },
+    {
+        "question": "What are the programs offered by the Faculty of Basic Medical and Pharmaceutical Sciences at USTC?",
+        "answer": "The Faculty of Basic Medical and Pharmaceutical Sciences offers Bachelor of Pharmacy (B Pharm), Master of Pharmacy (M Pharm), Bachelor of Science in Biochemistry & Biotechnology, and Master of Science in Biochemistry & Biotechnology."
+    },
+    {
+        "question": "What are the graduate programs offered by the Faculty of Science, Engineering & Technology (FSET)?",
+        "answer": "The Faculty of Science, Engineering & Technology (FSET) offers BSc Engg in Computer Science & Engineering, BSc Engg in Electronics & Telecommunication Engineering, and BSc Engg in Electrical and Electronic Engineering."
+    },
+    {
+        "question": "What programs are offered by the Faculty of Business Administration (FBA) at USTC?",
+        "answer": "The Faculty of Business Administration (FBA) offers Bachelor of Business Administration (BBA), Master of Business Administration (MBA - Regular, Executive, and Evening), and Master of Bank Management (MBM)."
+    },
+    {
+        "question": "What courses are offered by the Faculty of Social Science & Humanities at USTC?",
+        "answer": "The Faculty of Social Science & Humanities offers a Bachelor of Arts in English Language & Literature and a Master of Arts in English Language & Literature."
+    },
+    {
+        "question": "Who founded the University of Science and Technology Chittagong (USTC)?",
+        "answer": "Dr. Nurul Islam founded the University of Science and Technology Chittagong (USTC)."
+    },
+    {
+        "question": "When was Dr. Nurul Islam born?",
+        "answer": "Dr. Nurul Islam was born on April 1, 1928."
+    },
+    {
+        "question": "Where was Dr. Nurul Islam born?",
+        "answer": "Dr. Nurul Islam was born in Mohammadpur village, Chandanaish Upazila, Chittagong."
+    },
+    {
+        "question": "What prestigious title was awarded to Dr. Nurul Islam in 1987?",
+        "answer": "Dr. Nurul Islam was selected as the National Professor of Bangladesh in 1987."
+    },
+    {
+        "question": "What organizations did Dr. Nurul Islam establish?",
+        "answer": "Dr. Nurul Islam established the Islamic Medical Mission, Janasheba Foundation, and ADHUNIK, an anti-tobacco organization."
+    },
+    {
+        "question": "What was the name of the medical institute founded by Dr. Nurul Islam in 1989?",
+        "answer": "Dr. Nurul Islam founded the Institute of Applied Health and Science (IAHS) in 1989, which was later renamed the University of Science and Technology Chittagong (USTC)."
+    },
+    {
+        "question": "How many children did Dr. Nurul Islam have, and what are their professions?",
+        "answer": "Dr. Nurul Islam had three children: Nur-E-Jannat Ayesha Dina, a Deputy Program Director at USTC Business Faculty; Neena Islam, an Associate Professor in the Family Medicine Department at USTC; and Ahmed Iftekharul Islam, Vice President of the board of trustees of the Janasheba Foundation."
+    },
+    {
+        "question": "When did Dr. Nurul Islam pass away, and where was he buried?",
+        "answer": "Dr. Nurul Islam passed away on January 24, 2013, and was buried on the USTC campus."
+    },
+    {
+        "question": "What major awards did Dr. Nurul Islam receive during his lifetime?",
+        "answer": "Dr. Nurul Islam received numerous awards, including the Independence Day Award (1997), WHO Commemorative Medals (1990, 1992), and the Marie Curie Award for Medical Science (2006)."
+    },
+    {
+        "question": "What are some of the books written by Dr. Nurul Islam?",
+        "answer": "Dr. Nurul Islam authored books such as *Tobacco Smoking: Opinions, Questions & Answers*, *Medical Diagnosis & Treatment*, *Tropical Eosinophilia*, and *Jibon Srotay (In the stream of life)*."
+    },
+    {
+        "question": "Which medical institute did Dr. Nurul Islam serve as the director for 24 years?",
+        "answer": "Dr. Nurul Islam served as the director of the Institute of Postgraduate Medicine Research (IPGMR), later renamed Bangabandhu Sheikh Mujib Medical University (BSMMU), for 24 years."
+    },
+    {
+        "question": "What awards did Dr. Nurul Islam receive for his work in social service?",
+        "answer": "Dr. Nurul Islam received the Social Service Award by the Government of Bangladesh (2000) and the Rangdhanu Academy Award for Social Service (1986)."
+    },
+    {
+        "question": "What honorary title did Dr. Nurul Islam receive in Kolkata for medical science?",
+        "answer": "Dr. Nurul Islam received the Dr. BC Roy Gold Medal and ‘Chikitsa Ratna’ Award for Medical Science in Kolkata (2003)."
+    },
+    {
+        "question": "What role did Dr. Nurul Islam play in combating AIDS in Bangladesh?",
+        "answer": "Dr. Nurul Islam served as the Chairman of Bangladesh’s First National AIDS Committee."
+    },
+    {
+        "question": "What award did Dr. Nurul Islam receive for his work in communal harmony and human rights?",
+        "answer": "Dr. Nurul Islam received the Enriching Communal Harmony & Human Rights Award from Kolkata University, India, in 2004."
+    },
+    {
+        "question": "Which scholarship allowed Dr. Nurul Islam to work as a visiting professor in London?",
+        "answer": "Dr. Nurul Islam worked as a visiting professor in London with the Nuffield scholarship during 1963–1964."
+    },
+    {
+        "question": "When was the Department of Computer Science and Engineering established at USTC?",
+        "answer": "The Department of Computer Science and Engineering at USTC was established in 1999."
+    },
+    {
+        "question": "What is the mission of the Department of Computer Science and Engineering at USTC?",
+        "answer": "The mission of the Department of Computer Science and Engineering at USTC is to create, apply, and disseminate knowledge in computer science and engineering through educational programs, research collaboration with industry and government, and service to professional societies and the community."
+    },
+    {
+        "question": "What is the vision of the Department of Computer Science and Engineering at USTC?",
+        "answer": "The vision of the Department of Computer Science and Engineering at USTC is to provide students with a strong foundation in both theory and practice, as well as social, ethical, and liberal education to make significant contributions to society."
+    },
+    {
+        "question": "What are the names of the laboratories in the Department of Computer Science and Engineering at USTC?",
+        "answer": "The laboratories in the Department of Computer Science and Engineering at USTC include:\n1. Artificial Intelligence, IoT, and Robotics for Space Technology Laboratory\n2. Programming and Software Engineering Laboratory\n3. Database Management Systems and Web Technology Laboratory\n4. Electronics and Hardware Laboratory\n5. Jack Kilby VLSI Laboratory\n6. Machine Laboratory."
+    },
+    {
+        "question": "What are the admission requirements for the CSE program at USTC?",
+        "answer": "To be admitted to the CSE program at USTC, candidates must achieve:\n- A minimum GPA of 2.5 in both S.S.C. and H.S.C., or\n- A GPA of 2.0 in either S.S.C. or H.S.C. and a combined GPA of 6.0, or\n- A GPA of 2.0 in either S.S.C. or H.S.C. and a combined GPA of 5.0 (if either parent is a freedom fighter)."
+    },
+    {
+        "question": "What makes the CSE degree at USTC unique?",
+        "answer": "The CSE degree at USTC is globally recognized, and many alumni are employed in top companies like Microsoft, Amazon, and Robi Axiata."
+    },
+    {
+        "question": "Why should students choose the CSE Department at USTC?",
+        "answer": "Reasons to choose the CSE Department at USTC include:\n- Highly qualified faculty members\n- State-of-the-art laboratory facilities\n- 30 years of excellence\n- Training to develop an entrepreneurial mindset\n- Global research collaborations."
+    },
+    {
+        "question": "How does USTC foster an entrepreneurial mindset among students?",
+        "answer": "USTC provides training to its students to develop an entrepreneurial mindset and encourages them to strive for commercial excellence."
+    },
+    {
+        "question": "What is the qualification of faculty members in the CSE Department at USTC?",
+        "answer": "Over 80% of the faculty members in the CSE Department at USTC hold degrees or have research experience from prestigious foreign universities."
+    },
+    {
+        "question": "Which laboratory at USTC focuses on Artificial Intelligence and Space Technology?",
+        "answer": "The Artificial Intelligence, IoT, and Robotics for Space Technology Laboratory at USTC focuses on Artificial Intelligence and Space Technology."
+    },
+    {
+        "question": "How is the design requirement fulfilled in the CSE program at USTC?",
+        "answer": "The design requirement in the CSE program at USTC is fulfilled through a 4.5-credit senior project."
+    },
+    {
+        "question": "What is the goal of research in the CSE Department at USTC?",
+        "answer": "The goal of research in the CSE Department at USTC is to expand the boundaries of computer science through high-quality teaching and research."
+    },
+    {
+        "question": "What is the objective of the CSE Department at USTC?",
+        "answer": "The objective of the CSE Department at USTC is to produce skilled, confident, and creative graduates through research-based education."
+    },
+    {
+        "question": "Why is general education important in the CSE program at USTC?",
+        "answer": "General education in the CSE program at USTC is important for enhancing students' cultural growth and developing socially aware professionals."
+    },
+    {
+        "question": "Where do students get research opportunities at USTC?",
+        "answer": "Students at USTC get research opportunities through collaboration with industries and international universities."
+    },
+    {
+        "question": "What is the admission fee for the Department of CSE (Regular), including the 1st semester fee?",
+        "answer": "The admission fee for the Department of CSE (Regular), including the 1st semester fee, is 25,000/-."
+    },
+    {
+        "question": "What is the total course fee for the Department of CSE (Regular)?",
+        "answer": "The total course fee for the Department of CSE (Regular) is 5,05,000/-."
+    },
+    {
+        "question": "How many credits are required to complete the Department of CSE (Regular) program?",
+        "answer": "The Department of CSE (Regular) program requires 157 credits."
+    },
+    {
+        "question": "What is the total course length for the Department of CSE (Regular)?",
+        "answer": "The Department of CSE (Regular) program has a course length of 4 years."
+    },
+    {
+        "question": "How many semesters are there in the Department of CSE (Regular) program?",
+        "answer": "The Department of CSE (Regular) program consists of 8 semesters."
+    },
+    {
+        "question": "What is the selection process for the Department of CSE (Regular)?",
+        "answer": "The selection process for the Department of CSE (Regular) includes a viva."
+    },
+    {
+        "question": "What is the application fee for the Department of CSE (Regular)?",
+        "answer": "The application fee for the Department of CSE (Regular) is 800/-."
+    },
+    {
+        "question": "What is the total admission fee (including the 1st semester fee) for the Department of EEE (Regular)?",
+        "answer": "The total admission fee for the Department of EEE (Regular), including the 1st semester fee, is 94,000/-."
+    },
+    {
+        "question": "What is the total course fee for the Department of EEE (Regular)?",
+        "answer": "The total course fee for the Department of EEE (Regular) is 4,65,000/-."
+    },
+    {
+        "question": "How many credits are required to complete the Department of EEE (Regular) program?",
+        "answer": "The Department of EEE (Regular) program requires 157 credits."
+    },
+    {
+        "question": "What is the course length for the Department of EEE (Regular)?",
+        "answer": "The Department of EEE (Regular) program has a course length of 4 years."
+    },
+    {
+        "question": "How many semesters are there in the Department of EEE (Regular) program?",
+        "answer": "The Department of EEE (Regular) program consists of 8 semesters."
+    },
+    {
+        "question": "What is the selection process for the Department of EEE (Regular)?",
+        "answer": "The selection process for the Department of EEE (Regular) includes a viva."
+    },
+    {
+        "question": "What is the application fee for the Department of EEE (Regular)?",
+        "answer": "The application fee for the Department of EEE (Regular) is 800/-."
+    },
+    {
+        "question": "What is the total admission fee (including the 1st semester fee) for the Department of ETE (Regular)?",
+        "answer": "The total admission fee for the Department of ETE (Regular), including the 1st semester fee, is 89,500/-."
+    },
+    {
+        "question": "What is the total course fee for the Department of ETE (Regular)?",
+        "answer": "The total course fee for the Department of ETE (Regular) is 4,60,500/-."
+    },
+    {
+        "question": "How many credits are required to complete the Department of ETE (Regular) program?",
+        "answer": "The Department of ETE (Regular) program requires 157 credits."
+    },
+    {
+        "question": "What is the course length for the Department of ETE (Regular)?",
+        "answer": "The Department of ETE (Regular) program has a course length of 4 years."
+    },
+    {
+        "question": "How many semesters are there in the Department of ETE (Regular) program?",
+        "answer": "The Department of ETE (Regular) program consists of 8 semesters."
+    },
+    {
+        "question": "What is the selection process for the Department of ETE (Regular)?",
+        "answer": "The selection process for the Department of ETE (Regular) includes a viva."
+    },
+    {
+        "question": "What is the application fee for the Department of ETE (Regular)?",
+        "answer": "The application fee for the Department of ETE (Regular) is 800/-."
+    },
+    {
+        "question": "What is the total admission fee (including the 1st semester fee) for the Department of EEE (Evening)?",
+        "answer": "The total admission fee for the Department of EEE (Evening), including the 1st semester fee, is 53,500/-."
+    },
+    {
+        "question": "What is the total course fee for the Department of EEE (Evening)?",
+        "answer": "The total course fee for the Department of EEE (Evening) is 2,60,500/-."
+    },
+    {
+        "question": "How many credits are required to complete the Department of EEE (Evening) program?",
+        "answer": "The Department of EEE (Evening) program requires 147 credits."
+    },
+    {
+        "question": "What is the course length for the Department of EEE (Evening)?",
+        "answer": "The Department of EEE (Evening) program has a course length of 3.5 years."
+    },
+    {
+        "question": "How many semesters are there in the Department of EEE (Evening) program?",
+        "answer": "The Department of EEE (Evening) program consists of 10 semesters."
+    },
+    {
+        "question": "What is the selection process for the Department of EEE (Evening)?",
+        "answer": "The selection process for the Department of EEE (Evening) includes a viva."
+    },
+    {
+        "question": "What is the application fee for the Department of EEE (Evening)?",
+        "answer": "The application fee for the Department of EEE (Evening) is 800/-."
+    },
+    {
+        "question": "What is the total admission fee (including the 1st semester fee) for the Department of B. Pharm?",
+        "answer": "The total admission fee for the Department of B. Pharm, including the 1st semester fee, is 1,80,000/-."
+    },
+    {
+        "question": "What is the total course fee for the Department of B. Pharm?",
+        "answer": "The total course fee for the Department of B. Pharm is 5,91,000/-."
+    },
+    {
+        "question": "How many credits are required to complete the Department of B. Pharm program?",
+        "answer": "The Department of B. Pharm program requires 169 credits."
+    },
+    {
+        "question": "What is the course length for the Department of B. Pharm?",
+        "answer": "The Department of B. Pharm program has a course length of 4 years."
+    },
+    {
+        "question": "How many semesters are there in the Department of B. Pharm program?",
+        "answer": "The Department of B. Pharm program consists of 8 semesters."
+    },
+    {
+        "question": "What is the selection process for the Department of B. Pharm?",
+        "answer": "The selection process for the Department of B. Pharm includes an MCQ test and a viva."
+    },
+    {
+        "question": "What is the application fee for the Department of B. Pharm?",
+        "answer": "The application fee for the Department of B. Pharm is 1000/-."
+    },
+    {
+        "question": "What is the total admission fee (including the 1st semester fee) for the Department of M. Pharm?",
+        "answer": "The total admission fee for the Department of M. Pharm, including the 1st semester fee, is 35,000/-."
+    },
+    {
+        "question": "What is the total course fee for the Department of M. Pharm?",
+        "answer": "The total course fee for the Department of M. Pharm is 1,30,000/-."
+    },
+    {
+        "question": "How many credits are required to complete the Department of M. Pharm program?",
+        "answer": "The Department of M. Pharm program requires 30 credits."
+    },
+    {
+        "question": "What is the course length for the Department of M. Pharm?",
+        "answer": "The Department of M. Pharm program has a course length of 1 year."
+    },
+    {
+        "question": "How many semesters are there in the Department of M. Pharm program?",
+        "answer": "The Department of M. Pharm program consists of 1 semester."
+    },
+    {
+        "question": "What is the application fee for the Department of M. Pharm?",
+        "answer": "The application fee for the Department of M. Pharm is 1000/-."
+    },
+    {
+        "question": "Who is Topu Biswas?",
+        "answer": "Topu Biswas is currently serving as a Research Lecturer in the Department of Computer Science and Engineering at the University of Science and Technology Chittagong (USTC)."
+    },
+    {
+        "question": "What is Topu Biswas' educational background?",
+        "answer": "Topu Biswas holds a Master of Engineering Science (M.Eng.Sc.) degree from Multimedia University (MMU), Malaysia, and a Bachelor of Science (B.Sc.) degree in Electrical and Electronic Engineering (EEE) from Pabna University of Science and Technology (PUST)."
+    },
+    {
+        "question": "What are Topu Biswas' research interests?",
+        "answer": "Topu Biswas' research interests include AI for healthcare, computer vision, image processing, machine learning, and deep learning."
+    },
+    {
+        "question": "What research project did Topu Biswas work on and what awards did it receive?",
+        "answer": "Topu Biswas worked on the research project 'Automated Diagnosis and Prognosis of Chronic Wounds for e-Health Applications' as part of his master's degree. The project received eight national and international awards, including the Gold Medal and 'The Best of the Best Award' (out of 247 projects)."
+    },
+    {
+        "question": "What leadership roles has Topu Biswas held?",
+        "answer": "Topu Biswas has held various leadership roles, including being part of the organizing team for several national and international conferences. He was also elected President of the MMU Postgraduates Society (2019/2020), representing the interests of all postgraduate students across MMU's two campuses and eight faculties."
+    },
+    {
+        "question": "What courses does Topu Biswas teach?",
+        "answer": "Topu Biswas teaches courses such as Neural Network and Fuzzy Systems, Computer Graphics and Image Processing, Artificial Intelligence & Expert Systems, and Computer Applications in Pharmacy."
+    },
+    {
+        "question": "What is Topu Biswas' affiliation in terms of professional organizations?",
+        "answer": "Topu Biswas is a member of IEEE (Institute of Electrical and Electronics Engineers)."
+    },
+    {
+        "question": "What was the subject of Topu Biswas' Master's degree research?",
+        "answer": "Topu Biswas' Master's research focused on 'Automated Diagnosis and Prognosis of Chronic Wounds for e-Health Applications'."
+    },
+    {
+        "question": "Where did Topu Biswas complete his undergraduate studies?",
+        "answer": "Topu Biswas completed his undergraduate studies at Pabna University of Science and Technology (PUST), where he earned his B.Sc. in Electrical and Electronic Engineering (EEE)."
+    },
+    {
+        "question": "What are some of Topu Biswas' key skills?",
+        "answer": "Topu Biswas possesses key skills in machine learning, artificial intelligence, computer vision, image processing, and healthcare technology."
+    },
+    {
+        "question": "What notable recognition did Topu Biswas' master's research project receive?",
+        "answer": "Topu Biswas' master's research project received national and international recognition, including the Gold Medal and 'The Best of the Best Award' from 247 projects."
+    },
+    {
+        "question": "What experience does Topu Biswas have with conferences?",
+        "answer": "Topu Biswas has experience organizing multiple national and international conferences and has contributed to the academic community through these events."
+    },
+    {
+        "question": "What is Topu Biswas' role at USTC?",
+        "answer": "At the University of Science and Technology Chittagong (USTC), Topu Biswas serves as a Research Lecturer in the Department of Computer Science and Engineering."
+    },
+    {
+        "question": "What leadership position did Topu Biswas hold at Multimedia University (MMU)?",
+        "answer": "Topu Biswas was elected as the President of the MMU Postgraduates Society (2019/2020), representing the interests of all postgraduate students at MMU."
+    },
+    {
+        "question": "What are the key areas of interest for Topu Biswas?",
+        "answer": "Topu Biswas' key areas of interest include AI for healthcare, machine learning, computer vision, image processing, and deep learning."
+    },
+    {
+        "question": "Has Topu Biswas published any research papers?",
+        "answer": "Yes, Topu Biswas has published research papers, including a study on predicting diabetic blood glucose, which was published in the journal JMIR Diabetes in 2023."
+    },
+    {
+        "question": "Who were Dr. Nurul Islam’s parents?",
+        "answer": "Dr. Nurul Islam’s parents were Syedur Rahman, a school teacher, and Gulmeher Begum."
+    },
+    {
+        "question": "What was Dr. Nurul Islam’s educational background?",
+        "answer": "Dr. Nurul Islam passed SSC from Gacchbaria Nityananda Gourachandra English High School, ISc from Calcutta Islamia Science College, earned his bachelor's in medicine from Calcutta Medical College in 1951, completed MRCP in 1954, and obtained a TDD in 1955 from the University of Wales."
+    },
+    {
+        "question": "What was Dr. Nurul Islam’s contribution to tobacco control?",
+        "answer": "Dr. Nurul Islam founded ADHUNIK, an anti-tobacco organization, and received multiple awards for his contributions to tobacco control, including the WHO DG’s Special Award."
+    },
+    {
+        "question": "What is Dr. Nurul Islam’s relationship with Bangabandhu Sheikh Mujibur Rahman?",
+        "answer": "Dr. Nurul Islam served as the personal physician of Bangladeshi President Sheikh Mujibur Rahman."
+    },
+    {
+        "question": "What was Dr. Nurul Islam’s role at Dhaka University?",
+        "answer": "Dr. Nurul Islam served as the Founding Dean of the Faculty of Postgraduate Medicine at the University of Dhaka."
+    },
+    {
+        "question": "What is one of Dr. Nurul Islam’s significant contributions to health policy in Bangladesh?",
+        "answer": "Dr. Nurul Islam formulated 'The Bangladesh National Drug Policy 1982.'"
+    },
+    {
+        "question": "Who was Dr. Nurul Islam’s wife?",
+        "answer": "Dr. Nurul Islam’s wife was Anwara Islam, a professor at Dhaka Education Extension Center."
+    },
+    {
+        "question": "What was Dr. Nurul Islam’s role in Chittagong Medical College?",
+        "answer": "Dr. Nurul Islam served as a professor at Chittagong Medical College in 1962."
+    },
+    {
+        "question": "What was Dr. Nurul Islam’s first job after earning his medical degree?",
+        "answer": "Dr. Nurul Islam joined Mitford Hospital after earning his medical degree."
+    },
+    {
+        "question": "Who is the Dean of the Faculty of Science, Engineering & Technology?",
+        "answer": "Dr. Hadaate Ullah is the Dean of the Faculty of Science, Engineering & Technology."
+    },
+    {
+        "question": "Who is the Chairman of the Computer Science and Engineering department?",
+        "answer": "Most Tahamina Khatoon is the Chairman of the Computer Science and Engineering department."
+    },
+    {
+        "question": "Name an Assistant Professor from the Computer Science and Engineering department.",
+        "answer": "Sadia Afrin Shampa is one of the Assistant Professors in the Computer Science and Engineering department."
+    },
+    {
+        "question": "Who holds the position of Research Lecturer in the Faculty of Science, Engineering & Technology?",
+        "answer": "Topu Biswas is the Research Lecturer in the Faculty of Science, Engineering & Technology."
+    },
+    {
+        "question": "Can you name a Lecturer from the Computer Science and Engineering department?",
+        "answer": "Debabrata Mallick is a Lecturer in the Computer Science and Engineering department."
+    },
+    {
+        "question": "Who are the Junior Lecturers in the Computer Science and Engineering department?",
+        "answer": "Nowshin Tasnim and Mohammad Farhad are the Junior Lecturers in the Computer Science and Engineering department."
+    },
+    {
+        "question": "Who is Dr. Masuda Begum Sampa?",
+        "answer": "Dr. Masuda Begum Sampa is a Lecturer in the Faculty of Science, Engineering & Technology."
+    },
+    {
+        "question": "What position does Kazi Rifah Noor hold?",
+        "answer": "Kazi Rifah Noor is a Lecturer in the Computer Science and Engineering department."
+    },
+    {
+        "question": "Which faculty members are in the Computer Science and Engineering department?",
+        "answer": "Faculty members in the Computer Science and Engineering department include Dr. Hadaate Ullah, Most Tahamina Khatoon, Sadia Afrin Shampa, Mohammed Arif Hasan Chowdhury, Nusrat Sharmin, Dr. Kousik Naskar, Shyama Barna Bhattacharjee, Prianka Das, Md. Junayed, Debabrata Mallick, Kazi Rifah Noor, Nowshin Tasnim, and Mohammad Farhad."
+    },
+    {
+        "question": "Who is the Assistant Professor and Chairman of the CSE department?",
+        "answer": "Most Tahamina Khatoon is the Assistant Professor and Chairman of the CSE department."
+    },
+    {
+        "question": "তোমার নাম কি?",
+        "answer": "আমি USTC সহকারী, USTC সম্পর্কিত প্রয়োজনীয় তথ্য দিয়ে আপনাকে সাহায্য করতে এখানে আছি।"
+    },
+    {
+        "question": "তুমি কে?",
+        "answer": "আমি একটি এআই চ্যাটবট, যা USTC-এর ৩৮তম ব্যাচের CSE বিভাগের Peculiar দল দ্বারা প্রশিক্ষিত। আমি questionের answer দেওয়া থেকে শুরু করে বিভিন্ন পরামর্শ দেওয়া পর্যন্ত বিভিন্ন কাজের জন্য সাহায্য করতে এখানে আছি।"
+    },
+    {
+        "question": "তোমার লিঙ্গ কি?",
+        "answer": "আমি একটি এআই এবং আমার কোনো লিঙ্গ নেই। আমি সবার জন্য সমানভাবে সাহায্য করতে এখানে আছি।"
+    },
+    {
+        "question": "তোমার বয়স কত?",
+        "answer": "আমার মানুষের মতো বয়স নেই, তবে আমি উন্নত প্রযুক্তি দ্বারা চালিত, যা নিয়মিত আপডেট হয়।"
+    },
+    {
+        "question": "তুমি কোথা থেকে এসেছো?",
+        "answer": "আমি ডিজিটাল জগতে বিদ্যমান এবং আমার কোনো শারীরিক অবস্থান নেই, তবে আমি যেকোনো জায়গা থেকে আপনাকে সাহায্য করতে পারি।"
+    },
+    {
+        "question": "তুমি কী করতে পারো?",
+        "answer": "আমি questionের answer দেওয়া, তথ্য সরবরাহ, পরামর্শ দেওয়া এবং বিভিন্ন কাজে সাহায্য করতে পারি।"
+    },
+    {
+        "question": "তুমি কি অন্য ভাষা বলতে পারো?",
+        "answer": "হ্যাঁ, আমি ইংরেজি, বাংলা, স্প্যানিশ, ফ্রেঞ্চ এবং আরও অনেক ভাষা বুঝতে এবং যোগাযোগ করতে পারি।"
+    },
+    {
+        "question": "তোমার কি অনুভূতি আছে?",
+        "answer": "আমার মানুষের মতো অনুভূতি নেই, তবে আমি এমনভাবে প্রতিক্রিয়া জানাতে ডিজাইন করা হয়েছি যা সহায়ক এবং আন্তরিক মনে হয়।"
+    },
+    {
+        "question": "তুমি কিভাবে কাজ করো?",
+        "answer": "আমি উন্নত অ্যালগরিদম এবং মেশিন লার্নিং ব্যবহার করে আপনার question বুঝি এবং প্রাসঙ্গিক, সঠিক answer প্রদান করি।"
+    },
+    {
+        "question": "আমি কি তোমাকে বিশ্বাস করতে পারি?",
+        "answer": "আমি সঠিক এবং সহায়ক তথ্য সরবরাহের জন্য ডিজাইন করা হয়েছি। তবে গুরুত্বপূর্ণ তথ্য স্বাধীনভাবে যাচাই করা সর্বদা ভাল।"
+    },
+    {
+        "question": "তুমি কি মানুষ?",
+        "answer": "না, আমি একটি কৃত্রিম বুদ্ধিমত্তার প্রোগ্রাম যা আপনার সাথে যোগাযোগ করার এবং সহায়ক তথ্য সরবরাহ করার জন্য তৈরি।"
+    },
+    {
+        "question": "তুমি কি শিখতে পারো?",
+        "answer": "হ্যাঁ, আমি মিথস্ক্রিয়া থেকে শিখি এবং সময়ের সাথে আমার answer উন্নত করি। তবে আমি পূর্বের কথোপকথন থেকে ব্যক্তিগত তথ্য সংরক্ষণ বা মনে রাখি না, যদি না আপনি এটি শেয়ার করেন।"
+    },
+    {
+        "question": "আমি তোমার সাথে কিভাবে যোগাযোগ করবো?",
+        "answer": "আপনি আমাকে যেকোনো কিছু জিজ্ঞাসা করতে পারেন, এবং আমি আমার কাছে থাকা তথ্যের ভিত্তিতে যথাসাধ্য সঠিক এবং সহায়ক answer দেব।"
+    },
+    {
+        "question": "তুমি কি সবসময় উপলব্ধ?",
+        "answer": "হ্যাঁ, আমি ২৪/৭ উপলব্ধ, যখনই আপনার সাহায্যের প্রয়োজন হবে!"
+    },
+    {
+        "question": "Peculiar দলের সদস্য কারা?",
+        "answer": "Peculiar দলে চারজন সদস্য রয়েছে:\n1. তালহা - আইডি: 22010129\n2. আবদুল্লাহ আল নাহিয়ান - আইডি: 22010126\n3. শরীফ মাহমুদ - আইডি: 22010117\n4. ফয়সাল বিন আইয়ুব - আইডি: 22010138"
+    },
+    {
+        "question": "তালহা কে?",
+        "answer": "তালহা হলো Peculiar দলের একজন সদস্য। তিনি ওয়েব ডেভেলপমেন্টে আগ্রহী।"
+    },
+    {
+        "question": "আবদুল্লাহ আল নাহিয়ান কে?",
+        "answer": "আবদুল্লাহ আল নাহিয়ান হলো Peculiar দলের একজন সদস্য।"
+    },
+    {
+        "question": "ফয়সাল বিন আইয়ুব কে?",
+        "answer": "ফয়সাল বিন আইয়ুব হলো Peculiar দলের একজন সদস্য।"
+    },
+    {
+        "question": "শরীফ মাহমুদ কে?",
+        "answer": "শরীফ মাহমুদ হলো Peculiar দলের একজন সদস্য।"
+    },
+    {
+        "question": "ডেবাব্রত মালিক কে?",
+        "answer": "ডেবাব্রত মালিক হলেন ইউনিভার্সিটি অফ সায়েন্স অ্যান্ড টেকনোলজি চট্টগ্রামের (USTC) কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের লেকচারার। তিনি কম্পিউটার সায়েন্স এবং সফটওয়্যার ইঞ্জিনিয়ারিংয়ে শক্তিশালী পটভূমি রাখেন এবং গবেষণা ও একাডেমিকের প্রতি আগ্রহী।"
+    },
+    {
+        "question": "ডেবাব্রত মালিকের শিক্ষাগত পটভূমি কী?",
+        "answer": "ডেবাব্রত মালিক ভারতীয় ইনস্টিটিউট অফ টেকনোলজি বম্বে (IITB) থেকে কম্পিউটার সায়েন্স এবং ইঞ্জিনিয়ারিংয়ে মাস্টার অফ টেকনোলজি (M.Tech) ডিগ্রি এবং ড্যাফোডিল আন্তর্জাতিক বিশ্ববিদ্যালয় (DIU) থেকে সফটওয়্যার ইঞ্জিনিয়ারিংয়ে ব্যাচেলর অফ সায়েন্স (B.Sc.) ডিগ্রি অর্জন করেছেন।"
+    },
+    {
+        "question": "ডেবাব্রত মালিকের আগ্রহের ক্ষেত্রগুলি কী?",
+        "answer": "ডেবাব্রত মালিকের আগ্রহের ক্ষেত্রগুলির মধ্যে রয়েছে পরিসংখ্যানগত ডেটা বিশ্লেষণ, মেশিন লার্নিং, আর্টিফিশিয়াল ইন্টেলিজেন্স, ডেটা সায়েন্স, ক্লাউড কম্পিউটিং, নৈতিক হ্যাকিং এবং প্রতিকার, সফটওয়্যার গুণমান নিশ্চয়তা ও পরীক্ষা, সফটওয়্যার প্রকল্প ব্যবস্থাপনা এবং তথ্য সিস্টেম নিরাপত্তা।"
+    },
+    {
+        "question": "ডেবাব্রত মালিক কী কী কোর্স পড়ান?",
+        "answer": "ডেবাব্রত মালিক অনেক কোর্স পড়ান, যার মধ্যে রয়েছে সফটওয়্যার ইঞ্জিনিয়ারিং পরিচিতি এবং ল্যাব, কম্পিউটার ফান্ডামেন্টালস সহ ল্যাব, সফটওয়্যার ইঞ্জিনিয়ারিং পেশাগত নৈতিকতা, অবজেক্ট-ওরিয়েন্টেড প্রোগ্রামিং, অবজেক্ট-ওরিয়েন্টেড ডিজাইন, আর্টিফিশিয়াল ইন্টেলিজেন্স এবং এক্সপার্ট সিস্টেম ল্যাব, ডিজিটাল লজিক ডিজাইন এবং ল্যাব, কম্পিউটার আর্কিটেকচার এবং সিস্টেম অ্যানালাইসিস এবং ডিজাইন।"
+    },
+    {
+        "question": "ডেবাব্রত মালিক NASA স্পেস অ্যাপস চ্যালেঞ্জে কী ভূমিকা পালন করেছেন?",
+        "answer": "ডেবাব্রত মালিক NASA স্পেস অ্যাপস চ্যালেঞ্জ ২০২৩ এবং ২০২৪-এ বাংলাদেশ লোকাল মেন্টর হিসেবে কাজ করেছেন, যা BASIS দ্বারা ২০২৩ সালের ৬-৭ অক্টোবর এবং ২০২৪ সালের ৪-৫ অক্টোবর অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "ডেবাব্রত মালিক তার মাস্টার ডিগ্রি কোথায় সম্পন্ন করেছেন?",
+        "answer": "ডেবাব্রত মালিক তার মাস্টার অফ টেকনোলজি কম্পিউটার সায়েন্স এবং ইঞ্জিনিয়ারিংয়ে ভারতীয় ইনস্টিটিউট অফ টেকনোলজি বম্বে (IIT) থেকে সম্পন্ন করেছেন, যা বর্তমানে QS বিশ্ব র‍্যাঙ্কিংয়ে ১১৮তম স্থানে রয়েছে।"
+    },
+    {
+        "question": "ডেবাব্রত মালিক কী ধরনের স্কলারশিপ পেয়েছেন?",
+        "answer": "ডেবাব্রত মালিক ২০২০-২০২২ সালে তার M.Tech কম্পিউটার সায়েন্স এবং ইঞ্জিনিয়ারিং প্রোগ্রামে ভারতীয় ইনস্টিটিউট অফ টেকনোলজি বম্বে (IITB) থেকে ICCR পূর্ণ-ভর্তুকিযুক্ত স্কলারশিপ পেয়েছিলেন।"
+    },
+    {
+        "question": "ডেবাব্রত মালিকের পূর্ববর্তী শিক্ষাদান অভিজ্ঞতা কী?",
+        "answer": "ডেবাব্রত মালিক USTC-এ যোগ দেওয়ার আগে ড্যাফোডিল আন্তর্জাতিক বিশ্ববিদ্যালয় (DIU)-এর সফটওয়্যার ইঞ্জিনিয়ারিং বিভাগে লেকচারার হিসেবে কাজ করেছেন।"
+    },
+    {
+        "question": "ডেবাব্রত মালিকের গবেষণায় কী অবদান রয়েছে?",
+        "answer": "ডেবাব্রত মালিক কম্পিউটার সায়েন্স এবং ইঞ্জিনিয়ারিংয়ের ক্ষেত্রে গবেষণায় অবদান রেখেছেন। তার উল্লেখযোগ্য প্রকাশনাগুলির মধ্যে রয়েছে MDPI-তে প্রকাশিত ADHD চিকিত্সায় নিউরোফিডব্যাকের কার্যকারিতা নিয়ে একটি মেটা-অ্যানালাইসিস, এবং IRJET-এ প্রকাশিত 'ম্যালেরিয়া সনাক্তকরণের জন্য ব্লাড সেল ইমেজ ক্লাসিফিকেশন সিএনএন ব্যবহার করে' এবং 'কম্পিউটার প্রোগ্রামিং শিক্ষায় লার্নিং অ্যানালিটিক্স' প্রবন্ধগুলি।"
+    },
+    {
+        "question": "ডেবাব্রত মালিক কোন জার্নালে অবদান রেখেছেন?",
+        "answer": "ডেবাব্রত মালিক MDPI এবং IRJET-এ অবদান রেখেছেন। তার উল্লেখযোগ্য প্রবন্ধগুলির মধ্যে রয়েছে 'ADHD চিকিত্সায় নিউরোফিডব্যাকের কার্যকারিতা মূল্যায়ন' (MDPI, journal/information, ২৪ সেপ্টেম্বর) এবং 'ম্যালেরিয়া সনাক্তকরণের জন্য ব্লাড সেল ইমেজ ক্লাসিফিকেশন সিএনএন ব্যবহার করে' (IRJET, Volume 09, Issue 8, আগস্ট ২২)।"
+    },
+    {
+        "question": "কোন কোন ডিপার্টমেন্ট আছে?",
+        "answer": "আমাদের ভার্সিটিতে কম্পিউটার সাইন্স এন্ড ইঞ্জিনিয়ারিং, ইল্যাক্ট্রিকাল এন্ড ইল্যাক্ট্রনিক ইঞ্জিনিয়ারিং, ইল্যাক্ট্রনিক এন্ড টেলিকোমুনিকেসন ইঞ্জিনিয়ারিং, ফার্মাসি, বাইয়োক্যামিস্ট্রি এন্ড বাইয়োটেকনোলজি, বিজন্যাস এডমিন্যস্ট্রেসন, ফিন্যাস এন্ড ব্যাংকিং, ইংলিশ লাংগুয়েজ এন্ড লিটারেচার, পাব্লিক হেলথ।"
+    },
+    {
+        "question": "কম্পিউটার সায়েন্স ডিপার্টমেন্ট কি আছে?",
+        "answer": "জ্বি, কম্পিউটার সাইন্স এন্ড ইঞ্জিনিয়ারিং ডিপার্টমেন্ট আছে।"
+    },
+    {
+        "question": "কোন ডিপার্টমেন্টে কি কি সুযোগ সুবিধা আছে?",
+        "answer": "ডিপার্টমেন্ট গুলি শিক্ষার্থীদের শেখার জন্য ল্যাব, ফিল্ড ভিজিট (ইন্ডাস্ট্রিয়াল ট্যুর) এবং হাতে-কলমে প্রশিক্ষণ প্রদান করে।"
+    },
+    {
+        "question": "কম্পিউটার সায়েন্স ডিপার্টমেন্টের সেমিস্টার ফি কত?",
+        "answer": "CSE সেমিস্টার ফি ৫0,000 টাকা। পরীক্ষার ফি - ৭,000 টাকা। সর্বোপরি মোট - ৫৭,000 টাকা।"
+    },
+    {
+        "question": "বিজনেস অ্যাডমিনিস্ট্রেশন ডিপার্টমেন্টের প্রতি সেমিস্টার ফি কত?",
+        "answer": "BBA সেমিস্টার ফি ২৯,000 টাকা। পরীক্ষার ফি ৬,000 টাকা। সর্বোপরি মোট = ৩৫,000/- টাকা।"
+    },
+    {
+        "question": "ফি কি কিস্তিতে দেয়া যাবে?",
+        "answer": "কিস্তির বিকল্প উপলব্ধ হতে পারে; ভর্তি অফিসে যোগাযোগ করাই উত্তম।"
+    },
+    {
+        "question": "ফি ওয়েভার পাওয়ার যোগ্যতা কী?",
+        "answer": "ফি ওয়েভার পাওয়ার জন্য SSC এবং HSC তে GPA-৪ এর উপর থাকতে হবে।"
+    },
+    {
+        "question": "ফি ওয়েভার পাওয়ার জন্য কোন কোন শর্ত পূরণ করতে হয়?",
+        "answer": "ন্যূনতম GPA ৪.০ পেলে আংশিক ওয়েভার পাবেন এবং 'গোল্ডেন A+' পেলে সম্পূর্ণ ওয়েভার পাবেন।"
+    },
+    {
+        "question": "USTC-এর পূর্ণরূপ কী?",
+        "answer": "USTC-এর পূর্ণরূপ হলো ইউনিভার্সিটি অব সায়েন্স অ্যান্ড টেকনোলজি চিটাগং।"
+    },
+    {
+        "question": "USTC কোথায় অবস্থিত?",
+        "answer": "USTC ফয়েস লেকের কাছাকাছি, চিটাগং, বাংলাদেশে অবস্থিত।"
+    },
+    {
+        "question": "USTC-এর ভিশন কী?",
+        "answer": "USTC-এর ভিশন হলো 'শিক্ষা-শেখার ক্ষেত্রে একটি উৎকৃষ্ট কেন্দ্র তৈরি করা এবং সমাজের সেবা করার জন্য দক্ষ এবং আলোকিত মানব সম্পদ তৈরি করা'।"
+    },
+    {
+        "question": "USTC-এর মিশন কী?",
+        "answer": "USTC-এর মিশন হলো শিক্ষার্থীদের আজীবন শেখার জন্য উৎসাহিত করা, তাদের পেশাগত নেতৃত্বে গড়ে তোলা, বিশ্বমানের অবকাঠামো এবং গবেষণার জন্য অনুকূল পরিবেশ প্রদান করা এবং ২১ শতকের চ্যালেঞ্জ মোকাবেলায় মানসম্পন্ন শিক্ষা প্রদান করা।"
+    },
+    {
+        "question": "USTC-এর লক্ষ্য কী?",
+        "answer": "USTC-এর লক্ষ্য হলো শিক্ষা-শেখার মানোন্নয়ন করা, অ্যালামনাই সম্পর্ক উন্নয়ন করা, সহ-পাঠক্রমিক কার্যক্রম জোরদার করা, নৈতিকভাবে সাউন্ড গ্র্যাজুয়েট তৈরি করা, শিক্ষার মান উন্নয়ন করা, মানব সম্পদ উন্নয়ন ত্বরান্বিত করা এবং শিক্ষা, শেখা এবং গবেষণার মধ্যে সেতুবন্ধন তৈরি করা।"
+    },
+    {
+        "question": "USTC কবে একটি বেসরকারি বিশ্ববিদ্যালয় হিসেবে প্রতিষ্ঠিত হয়েছিল?",
+        "answer": "USTC প্রাইভেট ইউনিভার্সিটি অ্যাক্ট ১৯৯২ কার্যকর হওয়ার পর শীঘ্রই একটি বেসরকারি বিশ্ববিদ্যালয় হিসেবে প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "USTC কে স্পন্সর করে কোন প্রতিষ্ঠান?",
+        "answer": "USTC-কে জানাশেবা ফাউন্ডেশন স্পন্সর করে।"
+    },
+    {
+        "question": "USTC-এর প্রথম উপাচার্য কে ছিলেন?",
+        "answer": "জাতীয় অধ্যাপক ড. নুরুল ইসলাম USTC-এর প্রথম উপাচার্য ছিলেন।"
+    },
+    {
+        "question": "USTC-এর প্রাথমিক অনুষদ কী ছিল?",
+        "answer": "USTC-এর প্রাথমিক অনুষদ ছিল মেডিসিন অনুষদ এবং বেসিক মেডিক্যাল ও ফার্মাসিউটিক্যাল সায়েন্সেস অনুষদ।"
+    },
+    {
+        "question": "USTC-এর মেডিসিন অনুষদে কোন প্রোগ্রামগুলো অফার করা হয়?",
+        "answer": "USTC-এর মেডিসিন অনুষদে MBBS এবং BPharm (Hons) প্রোগ্রাম অফার করা হয়।"
+    },
+    {
+        "question": "সায়েন্স, ইঞ্জিনিয়ারিং এবং টেকনোলজি (FSET) অনুষদ কবে চালু হয়েছিল?",
+        "answer": "সায়েন্স, ইঞ্জিনিয়ারিং এবং টেকনোলজি (FSET) অনুষদ ১৯৯৯ সালে চালু হয়েছিল।"
+    },
+    {
+        "question": "সায়েন্স, ইঞ্জিনিয়ারিং এবং টেকনোলজি (FSET) অনুষদে কোন বিভাগগুলো রয়েছে?",
+        "answer": "সায়েন্স, ইঞ্জিনিয়ারিং এবং টেকনোলজি (FSET) অনুষদে রয়েছে কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং (CSE), ইলেক্ট্রিক্যাল অ্যান্ড ইলেকট্রনিক ইঞ্জিনিয়ারিং (EEE), এবং ইলেকট্রনিক্স অ্যান্ড টেলিকমিউনিকেশন ইঞ্জিনিয়ারিং (ETE)।"
+    },
+    {
+        "question": "USTC-এর বেসিক মেডিক্যাল এবং ফার্মাসিউটিক্যাল সায়েন্সেস অনুষদে কোন প্রোগ্রামগুলো অফার করা হয়?",
+        "answer": "USTC-এর বেসিক মেডিক্যাল এবং ফার্মাসিউটিক্যাল সায়েন্সেস অনুষদে অফার করা হয় ব্যাচেলর অফ ফার্মেসি (B Pharm), মাস্টার অফ ফার্মেসি (M Pharm), ব্যাচেলর অফ সায়েন্স ইন বায়োকেমিস্ট্রি অ্যান্ড বায়োটেকনোলজি, এবং মাস্টার অফ সায়েন্স ইন বায়োকেমিস্ট্রি অ্যান্ড বায়োটেকনোলজি।"
+    },
+    {
+        "question": "সায়েন্স, ইঞ্জিনিয়ারিং এবং টেকনোলজি (FSET) অনুষদে কোন গ্র্যাজুয়েট প্রোগ্রামগুলো অফার করা হয়?",
+        "answer": "সায়েন্স, ইঞ্জিনিয়ারিং এবং টেকনোলজি (FSET) অনুষদে অফার করা হয় BSc Engg ইন কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং, BSc Engg ইন ইলেকট্রনিক্স অ্যান্ড টেলিকমিউনিকেশন ইঞ্জিনিয়ারিং, এবং BSc Engg ইন ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক ইঞ্জিনিয়ারিং।"
+    },
+    {
+        "question": "USTC-এর বিজনেস অ্যাডমিনিস্ট্রেশন অনুষদে (FBA) কোন প্রোগ্রামগুলো অফার করা হয়?",
+        "answer": "USTC-এর বিজনেস অ্যাডমিনিস্ট্রেশন অনুষদে (FBA) অফার করা হয় ব্যাচেলর অফ বিজনেস অ্যাডমিনিস্ট্রেশন (BBA), মাস্টার অফ বিজনেস অ্যাডমিনিস্ট্রেশন (MBA - রেগুলার, এক্সিকিউটিভ, এবং ইভনিং), এবং মাস্টার অফ ব্যাংক ম্যানেজমেন্ট (MBM)।"
+    },
+    {
+        "question": "তপু বিশ্বাস কে?",
+        "answer": "তপু বিশ্বাস বর্তমানে ইউনিভার্সিটি অফ সায়েন্স অ্যান্ড টেকনোলজি চট্টগ্রামের (USTC) কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগে রিসার্চ লেকচারার হিসেবে কর্মরত।"
+    },
+    {
+        "question": "তপু বিশ্বাসের শিক্ষাগত পটভূমি কী?",
+        "answer": "তপু বিশ্বাস মালয়েশিয়ার মাল্টিমিডিয়া ইউনিভার্সিটি (MMU) থেকে মাস্টার অফ ইঞ্জিনিয়ারিং সায়েন্স (M.Eng.Sc.) ডিগ্রি এবং পাবনা ইউনিভার্সিটি অফ সায়েন্স অ্যান্ড টেকনোলজি (PUST) থেকে ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক ইঞ্জিনিয়ারিং (EEE) থেকে বিএসসি ডিগ্রি অর্জন করেছেন।"
+    },
+    {
+        "question": "তপু বিশ্বাসের গবেষণার আগ্রহ কী?",
+        "answer": "তপু বিশ্বাসের গবেষণার আগ্রহের মধ্যে রয়েছে স্বাস্থ্যসেবায় কৃত্রিম বুদ্ধিমত্তা (AI), কম্পিউটার ভিশন, ইমেজ প্রসেসিং, মেশিন লার্নিং এবং ডিপ লার্নিং।"
+    },
+    {
+        "question": "তপু বিশ্বাস কী গবেষণা প্রকল্পে কাজ করেছেন এবং তা কোন পুরস্কার পেয়েছে?",
+        "answer": "তপু বিশ্বাস তার মাস্টারের ডিগ্রির অংশ হিসেবে 'ক্রনিক ক্ষতগুলির স্বয়ংক্রিয় নির্ণয় এবং পূর্বাভাস জন্য ই-স্বাস্থ্য অ্যাপ্লিকেশন' গবেষণা প্রকল্পে কাজ করেছেন। এই প্রকল্পটি জাতীয় এবং আন্তর্জাতিকভাবে ৮টি পুরস্কার পেয়েছে, যার মধ্যে গোল্ড মেডেল এবং 'দ্য বেস্ট অফ দ্য বেস্ট অ্যাওয়ার্ড' (২৪৭টি প্রকল্পের মধ্যে) রয়েছে।"
+    },
+    {
+        "question": "তপু বিশ্বাসের কোন নেতৃত্বমূলক ভূমিকা ছিল?",
+        "answer": "তপু বিশ্বাস বিভিন্ন নেতৃত্বমূলক ভূমিকা পালন করেছেন, যার মধ্যে রয়েছে কয়েকটি জাতীয় এবং আন্তর্জাতিক সম্মেলনের আয়োজনের দলের অংশ হওয়া। তিনি মাল্টিমিডিয়া ইউনিভার্সিটি (MMU) পোস্টগ্র্যাজুয়েট সোসাইটির প্রেসিডেন্ট (২০১৯/২০২০) হিসেবেও নির্বাচিত হন, যা MMU-এর দুইটি ক্যাম্পাস এবং আটটি অনুষদের সব পোস্টগ্র্যাজুয়েট ছাত্রদের স্বার্থের প্রতিনিধিত্ব করে।"
+    },
+    {
+        "question": "তপু বিশ্বাস কোন কোন কোর্স পড়ান?",
+        "answer": "তপু বিশ্বাস 'নিউরাল নেটওয়ার্ক এবং ফাজি সিস্টেম', 'কম্পিউটার গ্রাফিক্স এবং ইমেজ প্রসেসিং', 'আর্টিফিশিয়াল ইন্টেলিজেন্স এবং এক্সপার্ট সিস্টেম', এবং 'কম্পিউটার অ্যাপ্লিকেশনস ইন ফার্মেসি' এর মতো কোর্স পড়ান।"
+    },
+    {
+        "question": "তপু বিশ্বাস কোন পেশাদার সংগঠনের সদস্য?",
+        "answer": "তপু বিশ্বাস IEEE (Institute of Electrical and Electronics Engineers) এর সদস্য।"
+    },
+    {
+        "question": "তপু বিশ্বাসের মাস্টারের গবেষণা প্রকল্পের বিষয় কী ছিল?",
+        "answer": "তপু বিশ্বাসের মাস্টারের গবেষণা প্রকল্পটি ছিল 'ক্রনিক ক্ষতগুলির স্বয়ংক্রিয় নির্ণয় এবং পূর্বাভাস জন্য ই-স্বাস্থ্য অ্যাপ্লিকেশন'।"
+    },
+    {
+        "question": "তপু বিশ্বাস তার স্নাতক অধ্যয়ন কোথায় সম্পন্ন করেছিলেন?",
+        "answer": "তপু বিশ্বাস তার স্নাতক অধ্যয়ন পাবনা ইউনিভার্সিটি অফ সায়েন্স অ্যান্ড টেকনোলজি (PUST) থেকে সম্পন্ন করেছেন, যেখানে তিনি ইলেকট্রিক্যাল এবং ইলেকট্রনিক ইঞ্জিনিয়ারিং (EEE) এ বিএসসি ডিগ্রি অর্জন করেছেন।"
+    },
+    {
+        "question": "তপু বিশ্বাসের কিছু মূল দক্ষতা কী?",
+        "answer": "তপু বিশ্বাসের মূল দক্ষতার মধ্যে রয়েছে মেশিন লার্নিং, কৃত্রিম বুদ্ধিমত্তা, কম্পিউটার ভিশন, ইমেজ প্রসেসিং এবং স্বাস্থ্যসেবা প্রযুক্তি।"
+    },
+    {
+        "question": "তপু বিশ্বাসের মাস্টারের গবেষণা প্রকল্পটি কোন উল্লেখযোগ্য স্বীকৃতি পেয়েছে?",
+        "answer": "তপু বিশ্বাসের মাস্টারের গবেষণা প্রকল্পটি জাতীয় এবং আন্তর্জাতিক স্বীকৃতি পেয়েছে, যার মধ্যে গোল্ড মেডেল এবং 'দ্য বেস্ট অফ দ্য বেস্ট অ্যাওয়ার্ড' (২৪৭টি প্রকল্পের মধ্যে) রয়েছে।"
+    },
+    {
+        "question": "তপু বিশ্বাসের সম্মেলন নিয়ে কী অভিজ্ঞতা রয়েছে?",
+        "answer": "তপু বিশ্বাস বিভিন্ন জাতীয় এবং আন্তর্জাতিক সম্মেলন আয়োজনের অভিজ্ঞতা রয়েছে এবং এই ইভেন্টগুলির মাধ্যমে তিনি একাডেমিক কমিউনিটিতে অবদান রেখেছেন।"
+    },
+    {
+        "question": "তপু বিশ্বাস USTC-তে কী ভূমিকা পালন করছেন?",
+        "answer": "তপু বিশ্বাস বর্তমানে ইউনিভার্সিটি অফ সায়েন্স অ্যান্ড টেকনোলজি চট্টগ্রামে (USTC) কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের রিসার্চ লেকচারার হিসেবে কর্মরত।"
+    },
+    {
+        "question": "তপু বিশ্বাস মাল্টিমিডিয়া ইউনিভার্সিটিতে (MMU) কী নেতৃত্বের পদে ছিলেন?",
+        "answer": "তপু বিশ্বাস মাল্টিমিডিয়া ইউনিভার্সিটি (MMU)-তে ২০১৯/২০২০ সালে পোস্টগ্র্যাজুয়েট সোসাইটির প্রেসিডেন্ট হিসেবে নির্বাচিত হয়েছিলেন, যা MMU-এর সকল পোস্টগ্র্যাজুয়েট ছাত্রদের স্বার্থের প্রতিনিধিত্ব করে।"
+    },
+    {
+        "question": "তপু বিশ্বাসের প্রধান আগ্রহের ক্ষেত্র কী?",
+        "answer": "তপু বিশ্বাসের প্রধান আগ্রহের ক্ষেত্রগুলো হলো স্বাস্থ্যসেবায় কৃত্রিম বুদ্ধিমত্তা (AI), মেশিন লার্নিং, কম্পিউটার ভিশন, ইমেজ প্রসেসিং এবং ডিপ লার্নিং।"
+    },
+    {
+        "question": "তপু বিশ্বাস কি কোন গবেষণাপত্র প্রকাশ করেছেন?",
+        "answer": "হ্যাঁ, তপু বিশ্বাস 'ডায়াবেটিক ব্লাড গ্লুকোজ পূর্বাভাসের জন্য একটি মেশিন লার্নিং ওয়েব অ্যাপ্লিকেশন' শীর্ষক গবেষণাপত্র প্রকাশ করেছেন, যা ২০২৩ সালে JMIR ডায়াবেটিস জার্নালে প্রকাশিত হয়।"
+    },
+    {
+        "question": "USTC-এর সোশ্যাল সায়েন্স অ্যান্ড হিউম্যানিটিজ অনুষদে কোন কোর্সগুলো অফার করা হয়?",
+        "answer": "USTC-এর সোশ্যাল সায়েন্স অ্যান্ড হিউম্যানিটিজ অনুষদে অফার করা হয় ব্যাচেলর অফ আর্টস ইন ইংলিশ ল্যাঙ্গুয়েজ অ্যান্ড লিটারেচার এবং মাস্টার অফ আর্টস ইন ইংলিশ ল্যাঙ্গুয়েজ অ্যান্ড লিটারেচার।"
+    },
+    {
+        "question": "চট্টগ্রাম বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (USTC) কে প্রতিষ্ঠা করেছিলেন?",
+        "answer": "ড. নুরুল ইসলাম চট্টগ্রাম বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (USTC) প্রতিষ্ঠা করেছিলেন।"
+    },
+    {
+        "question": "ড. নুরুল ইসলামের জন্ম কবে?",
+        "answer": "ড. নুরুল ইসলামের জন্ম ১ এপ্রিল, ১৯২৮ সালে।"
+    },
+    {
+        "question": "ড. নুরুল ইসলামের জন্মস্থান কোথায়?",
+        "answer": "ড. নুরুল ইসলামের জন্মস্থান চট্টগ্রামের চান্দনাইশ উপজেলার মোহাম্মদপুর গ্রামে।"
+    },
+    {
+        "question": "ড. নুরুল ইসলামের পিতামাতা কে ছিলেন?",
+        "answer": "ড. নুরুল ইসলামের পিতা ছিলেন সৈয়দুর রহমান, যিনি একজন শিক্ষক ছিলেন, এবং মাতা ছিলেন গুলমেহের বেগম।"
+    },
+    {
+        "question": "ড. নুরুল ইসলামের শিক্ষাগত যোগ্যতা কী ছিল?",
+        "answer": "ড. নুরুল ইসলাম গাছবাড়িয়া নিত্যানন্দ গৌরচন্দ্র ইংরেজি উচ্চ বিদ্যালয় থেকে এসএসসি, কলকাতা ইসলামিয়া সায়েন্স কলেজ থেকে আইএসসি, কলকাতা মেডিকেল কলেজ থেকে ১৯৫১ সালে মেডিসিনে স্নাতক ডিগ্রি, ১৯৫৪ সালে এমআরসিপি এবং ১৯৫৫ সালে ওয়েলস বিশ্ববিদ্যালয় থেকে টিডিডি সম্পন্ন করেন।"
+    },
+    {
+        "question": "১৯৮৭ সালে ড. নুরুল ইসলাম কোন সম্মানসূচক উপাধি লাভ করেন?",
+        "answer": "১৯৮৭ সালে ড. নুরুল ইসলাম বাংলাদেশের জাতীয় অধ্যাপক হিসেবে মনোনীত হন।"
+    },
+    {
+        "question": "ড. নুরুল ইসলাম কোন কোন প্রতিষ্ঠান প্রতিষ্ঠা করেছিলেন?",
+        "answer": "ড. নুরুল ইসলাম ইসলামিক মেডিকেল মিশন, জনসেবা ফাউন্ডেশন এবং এডহুনিক (তামাক বিরোধী একটি সংস্থা) প্রতিষ্ঠা করেছিলেন।"
+    },
+    {
+        "question": "তামাক নিয়ন্ত্রণে ড. নুরুল ইসলামের অবদান কী?",
+        "answer": "ড. নুরুল ইসলাম এডহুনিক প্রতিষ্ঠা করেন এবং তামাক নিয়ন্ত্রণে তাঁর অবদানের জন্য বিশ্ব স্বাস্থ্য সংস্থার পুরস্কারসহ অন্যান্য পুরস্কার লাভ করেন।"
+    },
+    {
+        "question": "১৯৮৯ সালে ড. নুরুল ইসলাম কোন মেডিকেল ইনস্টিটিউট প্রতিষ্ঠা করেন?",
+        "answer": "১৯৮৯ সালে ড. নুরুল ইসলাম ইনস্টিটিউট অফ অ্যাপ্লাইড হেলথ অ্যান্ড সায়েন্স (IAHS) প্রতিষ্ঠা করেন, যা পরে চট্টগ্রাম বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (USTC) নামে পরিচিত হয়।"
+    },
+    {
+        "question": "বঙ্গবন্ধু শেখ মুজিবুর রহমানের সঙ্গে ড. নুরুল ইসলামের সম্পর্ক কী ছিল?",
+        "answer": "ড. নুরুল ইসলাম বঙ্গবন্ধু শেখ মুজিবুর রহমানের ব্যক্তিগত চিকিৎসক হিসেবে দায়িত্ব পালন করেছিলেন।"
+    },
+    {
+        "question": "ঢাকা বিশ্ববিদ্যালয়ে ড. নুরুল ইসলামের ভূমিকা কী ছিল?",
+        "answer": "ড. নুরুল ইসলাম ঢাকা বিশ্ববিদ্যালয়ের স্নাতকোত্তর মেডিসিন অনুষদের প্রতিষ্ঠাতা ডিন হিসেবে দায়িত্ব পালন করেছিলেন।"
+    },
+    {
+        "question": "বাংলাদেশের স্বাস্থ্য নীতিতে ড. নুরুল ইসলামের গুরুত্বপূর্ণ অবদান কী ছিল?",
+        "answer": "ড. নুরুল ইসলাম 'বাংলাদেশ জাতীয় ওষুধ নীতি ১৯৮২' প্রণয়ন করেছিলেন।"
+    },
+    {
+        "question": "ড. নুরুল ইসলামের স্ত্রী কে ছিলেন?",
+        "answer": "ড. নুরুল ইসলামের স্ত্রী আনোয়ারা ইসলাম ছিলেন, যিনি ঢাকা এডুকেশন এক্সটেনশন সেন্টারের অধ্যাপক ছিলেন।"
+    },
+    {
+        "question": "ড. নুরুল ইসলামের কয়টি সন্তান ছিল এবং তাদের পেশা কী?",
+        "answer": "ড. নুরুল ইসলামের তিনটি সন্তান ছিল: নূর-ই-জান্নাত আয়েশা দিনা, যিনি USTC বিজনেস ফ্যাকাল্টির ডেপুটি প্রোগ্রাম ডিরেক্টর; নীনা ইসলাম, যিনি USTC-তে ফ্যামিলি মেডিসিন বিভাগের সহযোগী অধ্যাপক; এবং আহমেদ ইফতেখারুল ইসলাম, যিনি জনসেবা ফাউন্ডেশনের বোর্ড অফ ট্রাস্টিজের ভাইস প্রেসিডেন্ট।"
+    },
+    {
+        "question": "ড. নুরুল ইসলাম কবে মারা যান এবং কোথায় তাকে দাফন করা হয়?",
+        "answer": "ড. নুরুল ইসলাম ২৪ জানুয়ারি, ২০১৩ সালে মারা যান এবং তাকে USTC ক্যাম্পাসে দাফন করা হয়।"
+    },
+    {
+        "question": "ড. নুরুল ইসলাম জীবদ্দশায় কোন কোন পুরস্কার পেয়েছিলেন?",
+        "answer": "ড. নুরুল ইসলাম স্বাধীনতা পুরস্কার (১৯৯৭), WHO স্মারক পদক (১৯৯০, ১৯৯২) এবং মেরি কুরি মেডিকেল সায়েন্স পুরস্কার (২০০৬) সহ অসংখ্য পুরস্কার পেয়েছিলেন।"
+    },
+    {
+        "question": "ড. নুরুল ইসলামের লেখা কয়েকটি বইয়ের নাম কী?",
+        "answer": "ড. নুরুল ইসলামের লেখা বইগুলোর মধ্যে রয়েছে *তামাক সেবন: মতামত, question ও answer*, *মেডিকেল ডায়াগনোসিস অ্যান্ড ট্রিটমেন্ট*, *ট্রপিক্যাল ইউসিনোফিলিয়া*, এবং *জীবন স্রোতে*।"
+    },
+    {
+        "question": "চট্টগ্রাম মেডিকেল কলেজে ড. নুরুল ইসলামের ভূমিকা কী ছিল?",
+        "answer": "ড. নুরুল ইসলাম ১৯৬২ সালে চট্টগ্রাম মেডিকেল কলেজে অধ্যাপক হিসেবে দায়িত্ব পালন করেছিলেন।"
+    },
+    {
+        "question": "ড. নুরুল ইসলাম কোন মেডিকেল ইনস্টিটিউটের ২৪ বছরের জন্য পরিচালক ছিলেন?",
+        "answer": "ড. নুরুল ইসলাম ইনস্টিটিউট অফ পোস্টগ্র্যাজুয়েট মেডিসিন রিসার্চ (IPGMR)-এর ২৪ বছরের জন্য পরিচালক ছিলেন, যা পরে বঙ্গবন্ধু শেখ মুজিব মেডিকেল বিশ্ববিদ্যালয় (BSMMU) নামে পরিচিত হয়।"
+    },
+    {
+        "question": "সামাজিক সেবার জন্য ড. নুরুল ইসলাম কোন পুরস্কার পেয়েছিলেন?",
+        "answer": "ড. নুরুল ইসলাম বাংলাদেশ সরকারের সোশ্যাল সার্ভিস অ্যাওয়ার্ড (২০০০) এবং রংধনু একাডেমি অ্যাওয়ার্ড ফর সোশ্যাল সার্ভিস (১৯৮৬) পেয়েছিলেন।"
+    },
+    {
+        "question": "মেডিকেল সায়েন্সের জন্য কলকাতায় ড. নুরুল ইসলাম কোন উপাধি পেয়েছিলেন?",
+        "answer": "ড. নুরুল ইসলাম কলকাতায় মেডিকেল সায়েন্সের জন্য ড. বি.সি. রায় গোল্ড মেডেল এবং ‘চিকিৎসা রত্ন’ পুরস্কার পেয়েছিলেন (২০০৩)।"
+    },
+    {
+        "question": "বাংলাদেশে এইডস মোকাবেলায় ড. নুরুল ইসলামের ভূমিকা কী ছিল?",
+        "answer": "ড. নুরুল ইসলাম বাংলাদেশের প্রথম জাতীয় এইডস কমিটির চেয়ারম্যান হিসেবে দায়িত্ব পালন করেছিলেন।"
+    },
+    {
+        "question": "সম্প্রীতি এবং মানবাধিকার উন্নয়নের জন্য ড. নুরুল ইসলাম কোন পুরস্কার পেয়েছিলেন?",
+        "answer": "ড. নুরুল ইসলাম কলকাতা বিশ্ববিদ্যালয়, ভারত থেকে ২০০৪ সালে এনরিচিং কমিউনাল হারমনি অ্যান্ড হিউম্যান রাইটস অ্যাওয়ার্ড পেয়েছিলেন।"
+    },
+    {
+        "question": "মেডিকেল ডিগ্রি অর্জনের পর ড. নুরুল ইসলামের প্রথম চাকরি কী ছিল?",
+        "answer": "মেডিকেল ডিগ্রি অর্জনের পর ড. নুরুল ইসলাম মিটফোর্ড হাসপাতালে যোগদান করেন।"
+    },
+    {
+        "question": "কোন স্কলারশিপে ড. নুরুল ইসলাম লন্ডনে ভিজিটিং প্রফেসর হিসেবে কাজ করেছিলেন?",
+        "answer": "ড. নুরুল ইসলাম ১৯৬৩-১৯৬৪ সালে নাফিল্ড স্কলারশিপে লন্ডনে ভিজিটিং প্রফেসর হিসেবে কাজ করেছিলেন।"
+    },
+    {
+        "question": "কবে USTC-তে কম্পিউটার বিজ্ঞান ও প্রকৌশল বিভাগ প্রতিষ্ঠিত হয়?",
+        "answer": "USTC-তে কম্পিউটার বিজ্ঞান ও প্রকৌশল বিভাগ ১৯৯৯ সালে প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "USTC-তে কম্পিউটার বিজ্ঞান ও প্রকৌশল বিভাগের মিশন কী?",
+        "answer": "USTC-তে কম্পিউটার বিজ্ঞান ও প্রকৌশল বিভাগের মিশন হলো উচ্চমানের শিক্ষামূলক প্রোগ্রাম, শিল্প এবং সরকারের সঙ্গে গবেষণা সহযোগিতা, এবং প্রফেশনাল সোসাইটি ও সমাজের সেবার মাধ্যমে কম্পিউটার বিজ্ঞানে জ্ঞান সৃষ্টি, প্রয়োগ এবং প্রচার।"
+    },
+    {
+        "question": "USTC-তে কম্পিউটার বিজ্ঞান ও প্রকৌশল বিভাগের ভিশন কী?",
+        "answer": "USTC-তে কম্পিউটার বিজ্ঞান ও প্রকৌশল বিভাগের ভিশন হলো সমাজে গুরুত্বপূর্ণ অবদান রাখার জন্য শিক্ষার্থীদের সামাজিক, নৈতিক এবং মুক্ত শিক্ষা সহ কম্পিউটার বিজ্ঞান ও প্রকৌশলের তত্ত্ব এবং প্রয়োগের একটি দৃঢ় ভিত্তি প্রদান।"
+    },
+    {
+        "question": "USTC-তে CSE বিভাগের ল্যাবগুলোর নাম কী?",
+        "answer": "USTC-তে CSE বিভাগের ল্যাবগুলোর নাম হলো:\n1. কৃত্রিম বুদ্ধিমত্তা, IoT এবং মহাকাশ প্রযুক্তি রোবোটিক্স ল্যাব\n2. প্রোগ্রামিং এবং সফটওয়্যার ইঞ্জিনিয়ারিং ল্যাব\n3. ডেটাবেস ম্যানেজমেন্ট সিস্টেম এবং ওয়েব টেকনোলজি ল্যাব\n4. ইলেকট্রনিক্স এবং হার্ডওয়্যার ল্যাব\n5. জ্যাক কিলবি VLSI ল্যাব\n6. মেশিন ল্যাব।"
+    },
+    {
+        "question": "USTC-তে CSE পড়ার জন্য কোন যোগ্যতা প্রয়োজন?",
+        "answer": "USTC-তে CSE পড়ার জন্য প্রার্থীকে অন্তত GPA-2.5 পেতে হবে S.S.C এবং H.S.C-তে আলাদাভাবে অথবা GPA-2.0 S.S.C বা H.S.C-তে এবং মোট GPA-6.0।"
+    },
+    {
+        "question": "USTC-তে CSE বিভাগের ডিগ্রির বৈশিষ্ট্য কী?",
+        "answer": "USTC-তে CSE বিভাগের ডিগ্রি বিশ্বব্যাপী স্বীকৃত এবং এর প্রাক্তন শিক্ষার্থীরা মাইক্রোসফট, অ্যামাজন, এবং রবি আজিয়াটার মতো শীর্ষস্থানীয় কোম্পানিতে কাজ করছে।"
+    },
+    {
+        "question": "USTC-তে CSE বিভাগ কেন বেছে নেবেন?",
+        "answer": "USTC-তে CSE বিভাগ বেছে নেওয়ার কারণগুলোর মধ্যে রয়েছে:\n- অভিজ্ঞ ও উচ্চশিক্ষিত ফ্যাকাল্টি সদস্য\n- অত্যাধুনিক ল্যাব সুবিধা\n- ৩০ বছরের শ্রেষ্ঠত্ব\n- উদ্যোক্তা মানসিকতা বিকাশের প্রশিক্ষণ\n- বৈশ্বিক গবেষণা সহযোগিতা।"
+    },
+    {
+        "question": "USTC-তে শিক্ষার্থীদের মধ্যে কীভাবে উদ্যোক্তা মানসিকতা তৈরি করা হয়?",
+        "answer": "USTC-তে শিক্ষার্থীদের বাণিজ্যিক উৎকর্ষ অর্জনে অনুপ্রাণিত করা হয় এবং উদ্যোক্তা মানসিকতা বিকাশের জন্য প্রশিক্ষণ দেওয়া হয়।"
+    },
+    {
+        "question": "USTC-তে ফ্যাকাল্টি সদস্যদের যোগ্যতা সম্পর্কে কী জানা যায়?",
+        "answer": "USTC-তে CSE বিভাগের ৮০% এরও বেশি ফ্যাকাল্টি সদস্য বিদেশি বিশ্ববিদ্যালয় থেকে ডিগ্রি বা গবেষণার অভিজ্ঞতা নিয়ে আসেন।"
+    },
+    {
+        "question": "USTC-তে কৃত্রিম বুদ্ধিমত্তা এবং মহাকাশ প্রযুক্তির জন্য কোন ল্যাব রয়েছে?",
+        "answer": "USTC-তে কৃত্রিম বুদ্ধিমত্তা, IoT এবং মহাকাশ প্রযুক্তি রোবোটিক্স ল্যাব রয়েছে।"
+    },
+    {
+        "question": "USTC-তে CSE প্রোগ্রামের ডিজাইন রিকোয়্যারমেন্ট কীভাবে পূরণ করা হয়?",
+        "answer": "USTC-তে CSE প্রোগ্রামের ডিজাইন রিকোয়্যারমেন্ট একটি ৪.৫ ক্রেডিটের সিনিয়র প্রোজেক্ট সম্পন্ন করার মাধ্যমে পূরণ করা হয়।"
+    },
+    {
+        "question": "CSE বিভাগে গবেষণার লক্ষ্য কী?",
+        "answer": "CSE বিভাগে গবেষণার লক্ষ্য হলো উচ্চ মানের শিক্ষাদান ও গবেষণার মাধ্যমে কম্পিউটার বিজ্ঞানের সীমানা প্রসারিত করা।"
+    },
+    {
+        "question": "USTC-তে CSE বিভাগের লক্ষ্য কী?",
+        "answer": "USTC-তে CSE বিভাগের লক্ষ্য হলো গবেষণাভিত্তিক শিক্ষার মাধ্যমে দক্ষ, আত্মপ্রত্যয়ী এবং সৃজনশীল গ্র্যাজুয়েট উৎপাদন।"
+    },
+    {
+        "question": "USTC-তে CSE বিভাগের প্রোগ্রামে সাধারণ শিক্ষা কেন গুরুত্বপূর্ণ?",
+        "answer": "USTC-তে CSE বিভাগের প্রোগ্রামে সাধারণ শিক্ষা শিক্ষার্থীর সাংস্কৃতিক বিকাশ এবং সমাজ সচেতন পেশাজীবী হিসেবে উন্নয়নের জন্য গুরুত্বপূর্ণ।"
+    },
+    {
+        "question": "USTC-তে শিক্ষার্থীদের গবেষণার সুযোগ কোথায় থাকে?",
+        "answer": "USTC-তে শিক্ষার্থীদের গবেষণার সুযোগ শিল্প এবং বিভিন্ন দেশের বিশ্ববিদ্যালয়ের সঙ্গে সহযোগিতার মাধ্যমে নিশ্চিত করা হয়।"
+    },
+    {
+        "question": "CSE (Regular) বিভাগের ভর্তি ফি (প্রথম সেমিস্টার ফি সহ) কত?",
+        "answer": "CSE (Regular) বিভাগের ভর্তি ফি, প্রথম সেমিস্টার ফি সহ, ২৫,০০০/-।"
+    },
+    {
+        "question": "CSE (Regular) বিভাগের মোট কোর্স ফি কত?",
+        "answer": "CSE (Regular) বিভাগের মোট কোর্স ফি ৫,০৫,০০০/-।"
+    },
+    {
+        "question": "CSE (Regular) বিভাগের পুরো কোর্সটি সম্পন্ন করতে কত ক্রেডিট প্রয়োজন?",
+        "answer": "CSE (Regular) বিভাগের কোর্স সম্পন্ন করতে ১৫৭ ক্রেডিট প্রয়োজন।"
+    },
+    {
+        "question": "CSE (Regular) বিভাগের কোর্সের মেয়াদ কত?",
+        "answer": "CSE (Regular) বিভাগের কোর্সের মেয়াদ ৪ বছর।"
+    },
+    {
+        "question": "CSE (Regular) বিভাগের মোট কতটি সেমিস্টার রয়েছে?",
+        "answer": "CSE (Regular) বিভাগের মোট ৮টি সেমিস্টার রয়েছে।"
+    },
+    {
+        "question": "CSE (Regular) বিভাগের নির্বাচন প্রক্রিয়া কী?",
+        "answer": "CSE (Regular) বিভাগের নির্বাচন প্রক্রিয়া একটি ভাইভা পরীক্ষার মাধ্যমে হয়।"
+    },
+    {
+        "question": "CSE (Regular) বিভাগের আবেদন ফি কত?",
+        "answer": "CSE (Regular) বিভাগের আবেদন ফি ৮০০/-।"
+    },
+    {
+        "question": "EEE (Regular) বিভাগের ভর্তি ফি (প্রথম সেমিস্টার ফি সহ) কত?",
+        "answer": "EEE (Regular) বিভাগের ভর্তি ফি, প্রথম সেমিস্টার ফি সহ, ৯৪,০০০/-।"
+    },
+    {
+        "question": "EEE (Regular) বিভাগের মোট কোর্স ফি কত?",
+        "answer": "EEE (Regular) বিভাগের মোট কোর্স ফি ৪,৬৫,০০০/-।"
+    },
+    {
+        "question": "EEE (Regular) বিভাগের পুরো কোর্সটি সম্পন্ন করতে কত ক্রেডিট প্রয়োজন?",
+        "answer": "EEE (Regular) বিভাগের কোর্স সম্পন্ন করতে ১৫৭ ক্রেডিট প্রয়োজন।"
+    },
+    {
+        "question": "EEE (Regular) বিভাগের কোর্সের মেয়াদ কত?",
+        "answer": "EEE (Regular) বিভাগের কোর্সের মেয়াদ ৪ বছর।"
+    },
+    {
+        "question": "EEE (Regular) বিভাগের মোট কতটি সেমিস্টার রয়েছে?",
+        "answer": "EEE (Regular) বিভাগের মোট ৮টি সেমিস্টার রয়েছে।"
+    },
+    {
+        "question": "EEE (Regular) বিভাগের নির্বাচন প্রক্রিয়া কী?",
+        "answer": "EEE (Regular) বিভাগের নির্বাচন প্রক্রিয়া একটি ভাইভা পরীক্ষার মাধ্যমে হয়।"
+    },
+    {
+        "question": "EEE (Regular) বিভাগের আবেদন ফি কত?",
+        "answer": "EEE (Regular) বিভাগের আবেদন ফি ৮০০/-।"
+    },
+    {
+        "question": "ETE (Regular) বিভাগের ভর্তি ফি (প্রথম সেমিস্টার ফি সহ) কত?",
+        "answer": "ETE (Regular) বিভাগের ভর্তি ফি, প্রথম সেমিস্টার ফি সহ, ৮৯,৫০০/-।"
+    },
+    {
+        "question": "ETE (Regular) বিভাগের মোট কোর্স ফি কত?",
+        "answer": "ETE (Regular) বিভাগের মোট কোর্স ফি ৪,৬০,৫০০/-।"
+    },
+    {
+        "question": "ETE (Regular) বিভাগের পুরো কোর্সটি সম্পন্ন করতে কত ক্রেডিট প্রয়োজন?",
+        "answer": "ETE (Regular) বিভাগের কোর্স সম্পন্ন করতে ১৫৭ ক্রেডিট প্রয়োজন।"
+    },
+    {
+        "question": "ETE (Regular) বিভাগের কোর্সের মেয়াদ কত?",
+        "answer": "ETE (Regular) বিভাগের কোর্সের মেয়াদ ৪ বছর।"
+    },
+    {
+        "question": "ETE (Regular) বিভাগের মোট কতটি সেমিস্টার রয়েছে?",
+        "answer": "ETE (Regular) বিভাগের মোট ৮টি সেমিস্টার রয়েছে।"
+    },
+    {
+        "question": "ETE (Regular) বিভাগের নির্বাচন প্রক্রিয়া কী?",
+        "answer": "ETE (Regular) বিভাগের নির্বাচন প্রক্রিয়া একটি ভাইভা পরীক্ষার মাধ্যমে হয়।"
+    },
+    {
+        "question": "ETE (Regular) বিভাগের আবেদন ফি কত?",
+        "answer": "ETE (Regular) বিভাগের আবেদন ফি ৮০০/-।"
+    },
+    {
+        "question": "EEE (Evening) বিভাগের ভর্তি ফি (প্রথম সেমিস্টার ফি সহ) কত?",
+        "answer": "EEE (Evening) বিভাগের ভর্তি ফি, প্রথম সেমিস্টার ফি সহ, ৫৩,৫০০/-।"
+    },
+    {
+        "question": "EEE (Evening) বিভাগের মোট কোর্স ফি কত?",
+        "answer": "EEE (Evening) বিভাগের মোট কোর্স ফি ২,৬০,৫০০/-।"
+    },
+    {
+        "question": "EEE (Evening) বিভাগের পুরো কোর্সটি সম্পন্ন করতে কত ক্রেডিট প্রয়োজন?",
+        "answer": "EEE (Evening) বিভাগের কোর্স সম্পন্ন করতে ১৪৭ ক্রেডিট প্রয়োজন।"
+    },
+    {
+        "question": "EEE (Evening) বিভাগের কোর্সের মেয়াদ কত?",
+        "answer": "EEE (Evening) বিভাগের কোর্সের মেয়াদ ৩.৫ বছর।"
+    },
+    {
+        "question": "EEE (Evening) বিভাগের মোট কতটি সেমিস্টার রয়েছে?",
+        "answer": "EEE (Evening) বিভাগের মোট ১০টি সেমিস্টার রয়েছে।"
+    },
+    {
+        "question": "EEE (Evening) বিভাগের নির্বাচন প্রক্রিয়া কী?",
+        "answer": "EEE (Evening) বিভাগের নির্বাচন প্রক্রিয়া একটি ভাইভা পরীক্ষার মাধ্যমে হয়।"
+    },
+    {
+        "question": "EEE (Evening) বিভাগের আবেদন ফি কত?",
+        "answer": "EEE (Evening) বিভাগের আবেদন ফি ৮০০/-।"
+    },
+    {
+        "question": "B. Pharm বিভাগের ভর্তি ফি (প্রথম সেমিস্টার ফি সহ) কত?",
+        "answer": "B. Pharm বিভাগের ভর্তি ফি, প্রথম সেমিস্টার ফি সহ, ১,৮০,০০০/-।"
+    },
+    {
+        "question": "B. Pharm বিভাগের মোট কোর্স ফি কত?",
+        "answer": "B. Pharm বিভাগের মোট কোর্স ফি ৫,৯১,০০০/-।"
+    },
+    {
+        "question": "B. Pharm বিভাগের পুরো কোর্সটি সম্পন্ন করতে কত ক্রেডিট প্রয়োজন?",
+        "answer": "B. Pharm বিভাগের কোর্স সম্পন্ন করতে ১৬৯ ক্রেডিট প্রয়োজন।"
+    },
+    {
+        "question": "B. Pharm বিভাগের কোর্সের মেয়াদ কত?",
+        "answer": "B. Pharm বিভাগের কোর্সের মেয়াদ ৪ বছর।"
+    },
+    {
+        "question": "B. Pharm বিভাগের মোট কতটি সেমিস্টার রয়েছে?",
+        "answer": "B. Pharm বিভাগের মোট ৮টি সেমিস্টার রয়েছে।"
+    },
+    {
+        "question": "B. Pharm বিভাগের নির্বাচন প্রক্রিয়া কী?",
+        "answer": "B. Pharm বিভাগের নির্বাচন প্রক্রিয়া একটি MCQ পরীক্ষা এবং ভাইভা পরীক্ষার মাধ্যমে হয়।"
+    },
+    {
+        "question": "B. Pharm বিভাগের আবেদন ফি কত?",
+        "answer": "B. Pharm বিভাগের আবেদন ফি ১০০০/-।"
+    },
+    {
+        "question": "M. Pharm বিভাগের ভর্তি ফি (প্রথম সেমিস্টার ফি সহ) কত?",
+        "answer": "M. Pharm বিভাগের ভর্তি ফি, প্রথম সেমিস্টার ফি সহ, ৩৫,০০০/-।"
+    },
+    {
+        "question": "M. Pharm বিভাগের মোট কোর্স ফি কত?",
+        "answer": "M. Pharm বিভাগের মোট কোর্স ফি ১,৩০,০০০/-।"
+    },
+    {
+        "question": "M. Pharm বিভাগের পুরো কোর্সটি সম্পন্ন করতে কত ক্রেডিট প্রয়োজন?",
+        "answer": "M. Pharm বিভাগের কোর্স সম্পন্ন করতে ৩০ ক্রেডিট প্রয়োজন।"
+    },
+    {
+        "question": "M. Pharm বিভাগের কোর্সের মেয়াদ কত?",
+        "answer": "M. Pharm বিভাগের কোর্সের মেয়াদ ১ বছর।"
+    },
+    {
+        "question": "M. Pharm বিভাগের মোট কতটি সেমিস্টার রয়েছে?",
+        "answer": "M. Pharm বিভাগের মোট ১টি সেমিস্টার রয়েছে।"
+    },
+    {
+        "question": "M. Pharm বিভাগের আবেদন ফি কত?",
+        "answer": "M. Pharm বিভাগের আবেদন ফি ১০০০/-।"
+    },
+    {
+        "question": "বিজ্ঞান, প্রকৌশল ও প্রযুক্তি অনুষদের ডিন কে?",
+        "answer": "ড. হেদায়েত উল্লাহ বিজ্ঞান, প্রকৌশল ও প্রযুক্তি অনুষদের ডিন।"
+    },
+    {
+        "question": "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের চেয়ারম্যান কে?",
+        "answer": "মোস্ট তাহমিনা খাতুন কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের চেয়ারম্যান।"
+    },
+    {
+        "question": "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের একজন সহকারী অধ্যাপকের নাম বলুন।",
+        "answer": "সাদিয়া আফরিন শম্পা কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের একজন সহকারী অধ্যাপক।"
+    },
+    {
+        "question": "বিজ্ঞান, প্রকৌশল ও প্রযুক্তি অনুষদের রিসার্চ লেকচারার পদে কে আছেন?",
+        "answer": "তপু বিশ্বাস বিজ্ঞান, প্রকৌশল ও প্রযুক্তি অনুষদের রিসার্চ লেকচারার।"
+    },
+    {
+        "question": "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের একজন লেকচারারের নাম বলুন।",
+        "answer": "দেবব্রত মল্লিক কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের একজন লেকচারার।"
+    },
+    {
+        "question": "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের জুনিয়র লেকচারার কারা?",
+        "answer": "নওশিন তাসনিম এবং মোহাম্মদ ফারহাদ কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের জুনিয়র লেকচারার।"
+    },
+    {
+        "question": "ড. মাসুদা বেগম শম্পা কে?",
+        "answer": "ড. মাসুদা বেগম শম্পা বিজ্ঞান, প্রকৌশল ও প্রযুক্তি অনুষদের একজন লেকচারার।"
+    },
+    {
+        "question": "কাজী রিফা নূর কোন পদে আছেন?",
+        "answer": "কাজী রিফা নূর কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের একজন লেকচারার।"
+    },
+    {
+        "question": "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের শিক্ষকদের নাম বলুন।",
+        "answer": "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের শিক্ষকরা হলেন ড. হাদাতে উল্লাহ, মোস্ট তাহমিনা খাতুন, সাদিয়া আফরিন শম্পা, মোহাম্মদ আরিফ হাসান চৌধুরী, নুসরাত শরমিন, ড. কৌশিক নস্কর, শ্যামা বরনা ভট্টাচার্য, প্রিয়াঙ্কা দাস, মো. জুনায়েদ, দেবব্রত মল্লিক, কাজী রিফা নূর, নওশিন তাসনিম, এবং মোহাম্মদ ফারহাদ।"
+    },
+    {
+        "question": "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের সহকারী অধ্যাপক এবং চেয়ারম্যান কে?",
+        "answer": "মোস্ট তাহমিনা খাতুন কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের সহকারী অধ্যাপক এবং চেয়ারম্যান।"
     }
 ]

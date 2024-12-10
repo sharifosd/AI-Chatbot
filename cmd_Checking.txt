@@ -1,0 +1,11 @@
+checking available port live:
+# netstat -aon | findstr LISTENING
+
+To see all connections:
+# netstat -aon
+
+To check for connections with particular port:
+# netstat -ano | findstr :PORT_NUMBER
+
+Terminating a connection:
+# tasklist /FI "PID eq PID_NUMBER" (example pid the last number of the output of full connection detail)

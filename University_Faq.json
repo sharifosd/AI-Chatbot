@@ -1,0 +1,166 @@
+[
+    {
+        "instruction": "What departments are available?",
+        "response": "Our university offers departments in Computer Science and Engineering (CSE), Electrical and Electronic Engineering (EEE), Electronics and Telecommunication Engineering (ETE), Pharmacy, Business Administration (BBA), and more."
+    },
+    {
+        "instruction": "Is there a Computer Science department?",
+        "response": "Yes, the Computer Science (CSE) department is available, with a regular 4-year program."
+    },
+    {
+        "instruction": "What facilities are available in each department?",
+        "response": "Departments provide labs, field visits (Industrial Tour), and hands-on training to support student learning."
+    },
+    {
+        "instruction": "What is the semester fee for Computer Science?",
+        "response": "CSE Semester fee is 50,000 BDT, Exam fee - 7,000 BDT, so Total - 57,000 BDT."
+    },
+    {
+        "instruction": "How much is the semester fee for Business Administration?",
+        "response": "BBA Semester fee is 29,000 BDT, Exam fee 6,000 BDT, Total= 35,000/- BDT."
+    },
+    {
+        "instruction": "Can the fee be paid in installments?",
+        "response": "Installment options might be available, it’s best to contact the Admissions Office for details."
+    },
+    {
+        "instruction": "What are the eligibility criteria for a fee waiver?",
+        "response": "Fee waivers are based on high SSC and HSC GPAs, starting at GPA 4.0."
+    },
+    {
+        "instruction": "What conditions must be met to receive a fee waiver?",
+        "response": "A minimum of GPA 4.0 offers a partial waiver, and “Golden A+” qualifies for a full waiver."
+    },
+    {
+        "instruction": "কোন কোন ডিপার্টমেন্ট আছে?",
+        "response": "আমাদের ভার্সিটিতে কম্পিউটার সাইন্স এন্ড ইঞ্জিনিয়ারিং, ইল্যাক্ট্রিকাল এন্ড ইল্যাক্ট্রনিক ইঞ্জিনিয়ারিং, ইল্যাক্ট্রনিক এন্ড টেলিকোমুনিকেসন ইঞ্জিনিয়ারিং, ফার্মাসি, বাইয়োক্যামিস্ট্রি এন্ড বাইয়োটেকনোলজি, বিজন্যাস এডমিন্যস্ট্রেসন, ফিন্যাস এন্ড ব্যাংকিং, ইংলিশ লাংগুয়েজ এন্ড লিটারেচার, পাব্লিক হেলথ।"
+    },
+    {
+        "instruction": "কম্পিউটার সায়েন্স ডিপার্টমেন্ট কি আছে?",
+        "response": "জ্বি, কম্পিউটার সাইন্স এন্ড ইঞ্জিনিয়ারিং ডিপার্টমেন্ট আছে।"
+    },
+    {
+        "instruction": "কোন ডিপার্টমেন্টে কি কি সুযোগ সুবিধা আছে?",
+        "response": "ডিপার্টমেন্ট গুলি শিক্ষার্থীদের শেখার জন্য ল্যাব, ফিল্ড ভিজিট (ইন্ডাস্ট্রিয়াল ট্যুর) এবং হাতে-কলমে প্রশিক্ষণ প্রদান করে।"
+    },
+    {
+        "instruction": "কম্পিউটার সায়েন্স ডিপার্টমেন্টের সেমিস্টার ফি কত?",
+        "response": "CSE সেমিস্টার ফি ৫0,000 টাকা। পরীক্ষার ফি - ৭,000 টাকা। সর্বোপরি মোট - ৫৭,000 টাকা।"
+    },
+    {
+        "instruction": "বিজনেস অ্যাডমিনিস্ট্রেশন ডিপার্টমেন্টের প্রতি সেমিস্টার ফি কত?",
+        "response": "BBA সেমিস্টার ফি ২৯,000 টাকা। পরীক্ষার ফি ৬,000 টাকা। সর্বোপরি মোট = ৩৫,000/- টাকা।"
+    },
+    {
+        "instruction": "ফি কি কিস্তিতে দেয়া যাবে?",
+        "response": "কিস্তির বিকল্প উপলব্ধ হতে পারে; ভর্তি অফিসে যোগাযোগ করাই উত্তম।"
+    },
+    {
+        "instruction": "ফি ওয়েভার পাওয়ার যোগ্যতা কী?",
+        "response": "ফি ওয়েভার পাওয়ার জন্য SSC এবং HSC তে GPA-৪ এর উপর থাকতে হবে।"
+    },
+    {
+        "instruction": "ফি ওয়েভার পাওয়ার জন্য কোন কোন শর্ত পূরণ করতে হয়?",
+        "response": "ন্যূনতম GPA ৪.০ পেলে আংশিক ওয়েভার পাবেন এবং 'গোল্ডেন A+' পেলে সম্পূর্ণ ওয়েভার পাবেন।"
+    },
+    {
+        "instruction": "Does the university have engineering programs?",
+        "response": "Yes, we have programs in Computer Science and Engineering (CSE), Electrical and Electronic Engineering (EEE), and Electronics and Telecommunication Engineering (ETE)."
+    },
+    {
+        "instruction": "Is there a Pharmacy department in the university?",
+        "response": "Yes, our university offers a Pharmacy department with extensive lab facilities and experienced faculty."
+    },
+    {
+        "instruction": "How can I get more information on department facilities?",
+        "response": "For detailed information on facilities, you can visit each department or contact the Admissions Office."
+    },
+    {
+        "instruction": "What industrial exposure does the university provide?",
+        "response": "The university organizes industrial tours and hands-on training sessions to give students real-world exposure."
+    },
+    {
+        "instruction": "Are there practical lab sessions in the CSE department?",
+        "response": "Yes, the CSE department provides practical lab sessions to help students apply theoretical knowledge."
+    },
+    {
+        "instruction": "What is the semester fee structure for the EEE department?",
+        "response": "The EEE department has a similar fee structure to CSE, with semester and exam fees combined."
+    },
+    {
+        "instruction": "How can I inquire about the fee waiver options?",
+        "response": "To inquire about fee waivers, contact the Admissions Office or refer to the university website for guidelines."
+    },
+    {
+        "instruction": "What are the grade requirements for fee waivers?",
+        "response": "Fee waivers are awarded to students with high SSC and HSC GPAs, starting from GPA 4.0 and up."
+    },
+    {
+        "instruction": "What does 'Golden A+' mean in terms of fee waivers?",
+        "response": "'Golden A+' refers to the highest GPA in SSC and HSC exams, qualifying students for full fee waivers."
+    },
+    {
+        "instruction": "Are there any discounts on the semester fee?",
+        "response": "Yes, discounts such as fee waivers may be available based on academic performance in SSC and HSC exams."
+    },
+    {
+        "instruction": "Can international students apply for a fee waiver?",
+        "response": "Fee waivers are typically available for local students, but international students may inquire at the Admissions Office."
+    },
+    {
+        "instruction": "What scholarships are available for students?",
+        "response": "The university provides scholarships based on merit, need, and special achievements in extracurricular activities."
+    },
+    {
+        "instruction": "What is the admission procedure for the Pharmacy department?",
+        "response": "You can apply to the Pharmacy department by submitting your SSC and HSC results and completing the online application."
+    },
+    {
+        "instruction": "Is it possible to visit the campus before admission?",
+        "response": "Yes, campus visits can be arranged through the Admissions Office for prospective students and their families."
+    },
+    {
+        "instruction": "Are there any additional fees apart from semester fees?",
+        "response": "Additional fees include the exam fee, which varies by department, along with optional fees for certain facilities."
+    },
+    {
+        "instruction": "What are the semester start dates for each department?",
+        "response": "Semester start dates vary, but generally begin in January and July. Contact the Admissions Office for specific dates."
+    },
+    {
+        "instruction": "Is there a hostel facility for students?",
+        "response": "Yes, hostel facilities are available for students, with separate accommodations for male and female students."
+    },
+    {
+        "instruction": "How many semesters are in a year?",
+        "response": "The university follows a bi-semester system, meaning there are two semesters in a year."
+    },
+    {
+        "instruction": "What is the duration of the Pharmacy program?",
+        "response": "The Pharmacy program is typically a 4-year undergraduate course with practical training."
+    },
+    {
+        "instruction": "What type of internship opportunities are available for students?",
+        "response": "Internships are offered in collaboration with industries and research organizations related to each department."
+    },
+    {
+        "instruction": "What is the refund policy for the semester fee?",
+        "response": "The refund policy varies; it's best to consult the Accounts Office for detailed information on refunds."
+    },
+    {
+        "instruction": "What career services are available to students?",
+        "response": "The university offers career counseling, job placement support, and skill development workshops."
+    },
+    {
+        "instruction": "Is there a Business Administration program?",
+        "response": "Yes, the university offers a Business Administration (BBA) program with a strong focus on management and finance."
+    },
+    {
+        "instruction": "What are the eligibility criteria for admission?",
+        "response": "Admission criteria typically include GPA requirements in SSC and HSC exams, which vary by department."
+    },
+    {
+        "instruction": "Is there a dress code for students?",
+        "response": "The university promotes professional attire, though specific dress codes may vary by department."
+    }
+]
